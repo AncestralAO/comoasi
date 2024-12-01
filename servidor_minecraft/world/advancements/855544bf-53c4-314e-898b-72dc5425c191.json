@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-01 04:53:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-01 04:41:39 +0000"
@@ -111,6 +117,12 @@
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-01 04:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-01 04:54:51 +0000"
     },
     "done": true
   },
@@ -198,6 +210,12 @@
       "has_leather": "2024-12-01 04:40:52 +0000"
     },
     "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2024-12-01 04:53:44 +0000"
+    },
+    "done": false
   },
   "supertools:supertools/super_axe": {
     "criteria": {
@@ -357,6 +375,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-01 04:32:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-01 04:54:51 +0000"
     },
     "done": true
   },
@@ -595,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-01 04:54:51 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/lapis_leggings": {
     "criteria": {
       "has_lapis": "2024-12-01 04:32:59 +0000"
@@ -716,6 +746,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-01 04:53:10 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/obsidian_chestplate": {
     "criteria": {
       "has_obsidian": "2024-12-01 04:32:59 +0000"
@@ -752,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-01 04:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-01 04:41:39 +0000"
@@ -767,6 +809,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-01 04:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-01 04:53:10 +0000"
     },
     "done": true
   },
@@ -860,6 +908,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-01 04:53:10 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/emerald_helmet": {
     "criteria": {
       "has_emerald": "2024-12-01 04:32:59 +0000"
@@ -930,6 +984,12 @@
   "supertools:recipes/tools/lapis_pickaxe": {
     "criteria": {
       "has_items": "2024-12-01 04:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-01 04:53:10 +0000"
     },
     "done": true
   },
@@ -1041,6 +1101,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-01 04:47:17 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/redstone_sickle": {
     "criteria": {
       "has_items": "2024-12-01 04:32:59 +0000"
@@ -1056,8 +1122,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-01 04:41:37 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-01 04:55:20 +0000",
       "minecraft:stony_shore": "2024-12-01 04:37:24 +0000",
-      "minecraft:ocean": "2024-12-01 04:41:40 +0000"
+      "minecraft:ocean": "2024-12-01 04:41:40 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-01 04:55:50 +0000"
     },
     "done": false
   },
