@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-11 01:29:11 +0000"
+    },
+    "done": true
+  },
   "supertools:supertools/super_shovel": {
     "criteria": {
       "super_shovel": "2024-12-11 01:11:40 +0000"
@@ -588,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-11 01:29:11 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2024-12-11 01:11:40 +0000"
@@ -718,6 +730,12 @@
   "supertools:recipes/tools/redstone_hoe": {
     "criteria": {
       "has_items": "2024-12-11 01:11:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-11 01:30:10 +0000"
     },
     "done": true
   },
@@ -1249,6 +1267,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-11 01:33:23 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-11 01:14:56 +0000"
@@ -1526,6 +1550,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_bottles": "2024-12-11 01:30:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-11 01:15:50 +0000",
@@ -1561,6 +1591,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2024-12-11 01:36:34 +0000",
       "beetroot_soup": "2024-12-11 01:18:20 +0000",
       "bread": "2024-12-11 01:18:51 +0000"
     },
