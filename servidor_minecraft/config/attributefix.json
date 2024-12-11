@@ -121,17 +121,6 @@
         "value": 8
       }
     },
-    "tetra:ability_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
     "attributeslib:armor_pierce": {
       "enabled": false,
       "min": {
@@ -231,17 +220,6 @@
         "value": 2147483647
       }
     },
-    "additionalentityattributes:magic_protection": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "vampirism:sundamage": {
       "enabled": false,
       "min": {
@@ -251,50 +229,6 @@
       "max": {
         "default": 1000,
         "value": 1000
-      }
-    },
-    "tetra:draw_strength": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
-    "additionalentityattributes:lava_visibility": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "additionalentityattributes:bonus_loot_count_rolls": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 128,
-        "value": 128
-      }
-    },
-    "additionalentityattributes:lung_capacity": {
-      "enabled": false,
-      "min": {
-        "default": -40000,
-        "value": -40000
-      },
-      "max": {
-        "default": 40000,
-        "value": 40000
       }
     },
     "attributeslib:dodge_chance": {
@@ -385,28 +319,6 @@
         "value": 1000000
       }
     },
-    "tetra:draw_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
-    "additionalentityattributes:dig_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
     "vampirism:blood_exhaustion": {
       "enabled": false,
       "min": {
@@ -416,17 +328,6 @@
       "max": {
         "default": 10,
         "value": 10
-      }
-    },
-    "tetra:ability_cooldown": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
       }
     },
     "vampirism:neonatal_duration": {
@@ -449,17 +350,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "additionalentityattributes:water_visibility": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
       }
     },
     "epicfight:impact": {
@@ -493,17 +383,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "additionalentityattributes:water_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
       }
     },
     "projectile_damage:generic": {
@@ -570,17 +449,6 @@
       "max": {
         "default": 200,
         "value": 1000000
-      }
-    },
-    "additionalentityattributes:critical_bonus_damage": {
-      "enabled": false,
-      "min": {
-        "default": -1,
-        "value": -1
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
       }
     },
     "attributeslib:prot_pierce": {
@@ -693,28 +561,6 @@
         "value": 1024
       }
     },
-    "additionalentityattributes:lava_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "additionalentityattributes:bonus_rare_loot_rolls": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 128,
-        "value": 128
-      }
-    },
     "epicfight:max_strikes": {
       "enabled": false,
       "min": {
@@ -779,17 +625,6 @@
       "max": {
         "default": 1,
         "value": 1
-      }
-    },
-    "additionalentityattributes:dropped_experience": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
       }
     },
     "attributeslib:life_steal": {
