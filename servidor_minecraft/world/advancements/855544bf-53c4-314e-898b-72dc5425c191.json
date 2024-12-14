@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-14 05:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-14 04:05:15 +0000"
@@ -766,6 +772,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/blood_container": {
     "criteria": {
       "has_iron": "2024-12-14 04:04:09 +0000"
@@ -817,6 +829,12 @@
   "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:03:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-14 05:57:38 +0000"
     },
     "done": true
   },
@@ -934,6 +952,12 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-14 05:57:38 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/obsidian_boots": {
     "criteria": {
       "has_obsidian": "2024-12-14 03:13:10 +0000"
@@ -997,6 +1021,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-14 03:17:15 +0000"
@@ -1027,6 +1057,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-14 04:05:15 +0000"
@@ -1036,6 +1072,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-14 05:57:38 +0000"
     },
     "done": true
   },
@@ -1140,6 +1182,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2024-12-14 04:04:09 +0000",
@@ -1159,6 +1207,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-14 05:12:24 +0000"
@@ -1174,6 +1228,12 @@
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
     },
     "done": true
   },
@@ -1217,9 +1277,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-14 05:12:24 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
     },
     "done": true
   },
@@ -1392,6 +1464,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-14 05:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-14 03:17:47 +0000"
@@ -1482,6 +1560,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-14 05:33:34 +0000"
@@ -1551,6 +1635,12 @@
   "supertools:recipes/tools/redstone_pickaxe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2024-12-14 05:54:40 +0000"
     },
     "done": true
   },
@@ -1890,6 +1980,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-14 05:12:24 +0000"
@@ -1911,6 +2007,18 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-14 05:00:12 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-14 05:50:32 +0000"
     },
     "done": true
   },
@@ -1950,6 +2058,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-14 05:57:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:34:15 +0000"
@@ -1971,6 +2085,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-14 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
     },
     "done": true
   },
@@ -2055,6 +2175,12 @@
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2024-12-14 05:52:58 +0000"
     },
     "done": true
   },
@@ -2528,6 +2654,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-14 05:52:58 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:20:55 +0000"
@@ -2646,6 +2778,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-14 05:50:32 +0000"
     },
     "done": true
   },
@@ -2954,6 +3092,7 @@
       "minecraft:frozen_river": "2024-12-14 03:49:02 +0000",
       "minecraft:beach": "2024-12-14 03:35:58 +0000",
       "minecraft:river": "2024-12-14 03:34:55 +0000",
+      "minecraft:snowy_plains": "2024-12-14 06:08:28 +0000",
       "minecraft:stony_shore": "2024-12-14 03:18:15 +0000",
       "minecraft:cold_ocean": "2024-12-14 04:03:21 +0000",
       "minecraft:forest": "2024-12-14 03:13:11 +0000",
