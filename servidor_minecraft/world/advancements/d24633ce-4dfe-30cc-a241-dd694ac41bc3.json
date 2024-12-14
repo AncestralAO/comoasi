@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2024-12-14 03:21:12 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-14 04:07:29 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-14 03:22:00 +0000"
@@ -65,9 +77,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-14 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -125,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/supertools/special_cup": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -134,6 +164,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -155,9 +191,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -182,6 +230,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -210,9 +264,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-14 04:00:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_roasted_squash": {
     "criteria": {
       "has_squash": "2024-12-14 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-14 04:02:54 +0000"
     },
     "done": true
   },
@@ -301,6 +367,12 @@
   "vampirism:recipes/misc/vampire/blood_infused_iron_ingot": {
     "criteria": {
       "has_iron": "2024-12-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -469,6 +541,12 @@
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2024-12-14 03:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -771,6 +849,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/obsidian_hoe": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -845,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-14 03:20:46 +0000"
@@ -859,6 +949,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-14 04:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:19:35 +0000"
@@ -871,6 +967,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
@@ -880,6 +982,12 @@
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2024-12-14 03:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -934,6 +1042,12 @@
   "croptopia:getseeds": {
     "criteria": {
       "has_seeds": "2024-12-14 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-14 04:00:26 +0000"
     },
     "done": true
   },
@@ -1019,6 +1133,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:19:35 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -1184,6 +1304,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-14 04:07:29 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-14 03:17:20 +0000"
@@ -1286,6 +1412,12 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/windsweeper": {
+    "criteria": {
+      "blowgun": "2024-12-14 04:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:19:35 +0000"
@@ -1331,6 +1463,12 @@
   "vampirism:recipes/decorations/vampire/altar_pillar": {
     "criteria": {
       "has_stones": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -1418,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/supertools/adarum": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -1427,6 +1571,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-14 04:07:25 +0000"
     },
     "done": true
   },
@@ -1493,6 +1643,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-14 04:02:15 +0000"
     },
     "done": true
   },
@@ -1737,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-14 04:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-14 03:33:57 +0000"
@@ -1893,6 +2055,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
@@ -2011,6 +2179,12 @@
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-14 04:07:29 +0000"
     },
     "done": true
   },
@@ -2176,9 +2350,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-14 04:04:06 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-14 03:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-14 04:07:29 +0000"
     },
     "done": true
   },
@@ -2209,6 +2395,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-14 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-14 04:00:26 +0000"
     },
     "done": true
   },
@@ -2273,6 +2465,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-14 04:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 03:37:35 +0000",
@@ -2311,6 +2509,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-14 03:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
     },
     "done": true
   },
@@ -2408,6 +2612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-14 04:00:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/paprika": {
     "criteria": {
       "has_chile_peppers": "2024-12-14 03:29:58 +0000"
@@ -2435,6 +2645,18 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 04:00:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-14 04:04:06 +0000"
     },
     "done": true
   },
