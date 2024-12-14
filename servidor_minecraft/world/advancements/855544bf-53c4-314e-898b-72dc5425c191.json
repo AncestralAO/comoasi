@@ -244,6 +244,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-14 03:44:22 +0000",
+      "minecraft:creeper": "2024-12-14 03:50:24 +0000",
       "minecraft:zombie": "2024-12-14 03:34:27 +0000"
     },
     "done": false
@@ -1198,7 +1199,9 @@
       "coniferous_forest": "2024-12-14 03:34:08 +0000",
       "seasonal_forest": "2024-12-14 03:36:01 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:40:18 +0000",
-      "glowing_grotto": "2024-12-14 03:40:20 +0000"
+      "snowy_fir_clearing": "2024-12-14 03:50:29 +0000",
+      "glowing_grotto": "2024-12-14 03:40:20 +0000",
+      "snowy_maple_woods": "2024-12-14 03:49:03 +0000"
     },
     "done": false
   },
@@ -1653,6 +1656,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-14 03:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-14 03:17:47 +0000"
@@ -1739,12 +1748,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-14 03:49:02 +0000",
       "minecraft:beach": "2024-12-14 03:35:58 +0000",
       "minecraft:river": "2024-12-14 03:34:55 +0000",
       "minecraft:stony_shore": "2024-12-14 03:18:15 +0000",
       "minecraft:forest": "2024-12-14 03:13:11 +0000",
       "minecraft:frozen_ocean": "2024-12-14 03:37:24 +0000",
-      "minecraft:deep_frozen_ocean": "2024-12-14 03:37:07 +0000"
+      "minecraft:deep_frozen_ocean": "2024-12-14 03:37:07 +0000",
+      "minecraft:deep_dark": "2024-12-14 03:57:07 +0000"
     },
     "done": false
   },
@@ -1774,6 +1785,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-14 03:49:24 +0000",
       "bread": "2024-12-14 03:30:14 +0000"
     },
     "done": false

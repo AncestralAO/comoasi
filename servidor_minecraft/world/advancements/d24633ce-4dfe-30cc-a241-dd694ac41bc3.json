@@ -293,7 +293,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-14 03:44:45 +0000",
       "minecraft:spider": "2024-12-14 03:21:12 +0000",
-      "minecraft:creeper": "2024-12-14 03:26:17 +0000"
+      "minecraft:creeper": "2024-12-14 03:26:17 +0000",
+      "minecraft:zombie": "2024-12-14 03:49:38 +0000"
     },
     "done": false
   },
@@ -782,6 +783,12 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/blowgun": {
+    "criteria": {
+      "blowgun": "2024-12-14 03:50:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2024-12-14 03:18:32 +0000"
@@ -797,9 +804,10 @@
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2024-12-14 03:24:07 +0000",
+      "requirement_3": "2024-12-14 03:57:35 +0000",
       "requirement_1": "2024-12-14 03:19:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
@@ -914,6 +922,12 @@
   "vampirism:recipes/decorations/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-14 03:56:20 +0000"
     },
     "done": true
   },
@@ -1538,11 +1552,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-14 03:53:11 +0000",
+      "snowblossom_grove": "2024-12-14 03:52:33 +0000",
       "rocky_shrubland": "2024-12-14 03:18:33 +0000",
       "cold_desert": "2024-12-14 03:39:35 +0000",
       "coniferous_forest": "2024-12-14 03:18:32 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:38:17 +0000",
-      "snowy_fir_clearing": "2024-12-14 03:38:32 +0000"
+      "snowy_fir_clearing": "2024-12-14 03:38:32 +0000",
+      "tundra": "2024-12-14 03:55:20 +0000"
     },
     "done": false
   },
@@ -1597,6 +1614,12 @@
   "supertools:recipes/tools/emerald_hoe": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-14 03:50:14 +0000"
     },
     "done": true
   },
@@ -2226,6 +2249,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-14 03:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-14 03:29:15 +0000"
@@ -2248,6 +2277,7 @@
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 03:37:35 +0000",
       "minecraft:river": "2024-12-14 03:19:01 +0000",
+      "minecraft:snowy_plains": "2024-12-14 03:55:21 +0000",
       "minecraft:stony_shore": "2024-12-14 03:18:12 +0000",
       "minecraft:snowy_taiga": "2024-12-14 03:38:42 +0000",
       "minecraft:grove": "2024-12-14 03:39:20 +0000",
@@ -2255,7 +2285,8 @@
       "minecraft:forest": "2024-12-14 03:17:21 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 03:24:52 +0000",
       "minecraft:frozen_ocean": "2024-12-14 03:25:24 +0000",
-      "minecraft:deep_frozen_ocean": "2024-12-14 03:33:42 +0000"
+      "minecraft:deep_frozen_ocean": "2024-12-14 03:33:42 +0000",
+      "minecraft:plains": "2024-12-14 03:55:45 +0000"
     },
     "done": false
   },
@@ -2293,7 +2324,8 @@
     "criteria": {
       "sweet_berries": "2024-12-14 03:30:05 +0000",
       "apple": "2024-12-14 03:33:47 +0000",
-      "bread": "2024-12-14 03:22:12 +0000"
+      "bread": "2024-12-14 03:22:12 +0000",
+      "golden_apple": "2024-12-14 03:49:30 +0000"
     },
     "done": false
   },
