@@ -803,12 +803,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-14 21:59:53 +0000",
       "minecraft:frozen_river": "2024-12-14 03:49:02 +0000",
       "minecraft:beach": "2024-12-14 03:35:58 +0000",
       "minecraft:river": "2024-12-14 03:34:55 +0000",
       "minecraft:snowy_plains": "2024-12-14 06:08:28 +0000",
       "minecraft:stony_shore": "2024-12-14 03:18:15 +0000",
       "minecraft:dripstone_caves": "2024-12-14 21:20:17 +0000",
+      "minecraft:grove": "2024-12-14 21:59:34 +0000",
       "minecraft:cold_ocean": "2024-12-14 04:03:21 +0000",
       "minecraft:forest": "2024-12-14 03:13:11 +0000",
       "minecraft:frozen_ocean": "2024-12-14 03:37:24 +0000",
@@ -3659,9 +3661,27 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-14 21:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-12-14 21:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-14 21:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-14 22:00:50 +0000"
     },
     "done": true
   },

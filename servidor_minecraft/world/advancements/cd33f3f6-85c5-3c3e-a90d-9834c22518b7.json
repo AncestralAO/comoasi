@@ -835,6 +835,7 @@
       "rocky_shrubland": "2024-12-14 03:27:01 +0000",
       "orchard": "2024-12-14 20:12:47 +0000",
       "coniferous_forest": "2024-12-14 03:38:02 +0000",
+      "spider_nest": "2024-12-14 21:59:36 +0000",
       "redwood_forest": "2024-12-14 21:41:50 +0000",
       "dune_beach": "2024-12-14 03:38:08 +0000",
       "seasonal_forest": "2024-12-14 03:30:05 +0000",
@@ -1202,6 +1203,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-14 21:54:17 +0000",
       "minecraft:zombie": "2024-12-14 03:29:19 +0000"
     },
     "done": false
@@ -1262,6 +1264,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-14 21:58:55 +0000",
       "bread": "2024-12-14 03:32:26 +0000"
     },
     "done": false
@@ -2712,6 +2715,24 @@
     },
     "done": true
   },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2024-12-14 21:58:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 21:58:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 21:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-14 21:46:15 +0000"
@@ -2733,6 +2754,12 @@
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2024-12-14 21:46:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2024-12-14 21:58:50 +0000"
     },
     "done": true
   },
@@ -2760,15 +2787,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-14 21:58:50 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
       "requirement_1": "2024-12-14 21:46:15 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 21:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-14 21:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-14 21:46:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2024-12-14 21:58:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-14 21:57:13 +0000"
     },
     "done": true
   },
@@ -2790,6 +2847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-14 21:58:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/fog_diffuser": {
     "criteria": {
       "has_diamond": "2024-12-14 21:46:15 +0000"
@@ -2802,6 +2865,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 21:57:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2024-12-14 21:58:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-14 21:46:15 +0000"
@@ -2811,6 +2886,12 @@
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-12-14 21:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-14 21:57:13 +0000"
     },
     "done": true
   },
@@ -2829,6 +2910,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-14 21:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-14 21:58:50 +0000"
     },
     "done": true
   },
