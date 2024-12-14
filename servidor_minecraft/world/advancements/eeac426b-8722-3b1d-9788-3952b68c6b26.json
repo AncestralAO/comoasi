@@ -876,9 +876,21 @@
     },
     "done": false
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2024-12-14 05:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-14 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
     },
     "done": true
   },
@@ -996,6 +1008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 04:04:24 +0000"
@@ -1020,9 +1038,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-14 03:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
     },
     "done": true
   },
@@ -1116,6 +1146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-14 05:42:59 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-12-14 04:28:10 +0000"
@@ -1125,6 +1161,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
     },
     "done": true
   },
@@ -1164,6 +1206,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-14 05:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-14 04:46:51 +0000"
@@ -1200,6 +1248,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-14 05:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 04:04:50 +0000"
@@ -1221,6 +1281,12 @@
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2024-12-14 04:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-14 05:42:59 +0000"
     },
     "done": true
   },
@@ -1254,9 +1320,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 05:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-14 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
     },
     "done": true
   },
@@ -1275,6 +1353,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-14 04:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 05:39:31 +0000"
     },
     "done": true
   },
@@ -1314,6 +1398,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:46:28 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
       "has_apple": "2024-12-14 03:21:52 +0000"
@@ -1341,6 +1431,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 04:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-14 05:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
     },
     "done": true
   },
@@ -1446,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-14 05:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 04:53:36 +0000"
@@ -1473,6 +1587,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-14 03:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 05:46:28 +0000"
     },
     "done": true
   },
@@ -1705,6 +1825,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-14 05:42:02 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/unlocked/blowgun": {
     "criteria": {
       "blowgun": "2024-12-14 03:39:52 +0000"
@@ -1869,6 +1995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:28:10 +0000"
@@ -1932,6 +2064,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 05:46:28 +0000"
     },
     "done": true
   },
@@ -2163,6 +2301,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-14 05:42:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/tackle_box": {
     "criteria": {
       "has_items": "2024-12-14 04:14:37 +0000"
@@ -2193,6 +2337,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-14 05:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-12-14 04:14:37 +0000"
@@ -2214,6 +2364,12 @@
   "vampirism:recipes/combat/hunter/stake": {
     "criteria": {
       "has_sticks": "2024-12-14 03:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 05:42:59 +0000"
     },
     "done": true
   },
@@ -2268,6 +2424,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2024-12-14 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe": {
+    "criteria": {
+      "gobber2_pickaxe": "2024-12-14 05:47:48 +0000"
     },
     "done": true
   },
@@ -2346,6 +2508,18 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:28:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 05:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
     },
     "done": true
   },
@@ -2561,6 +2735,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 05:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 05:42:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 05:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-14 03:39:52 +0000"
@@ -2639,6 +2831,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2024-12-14 05:42:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2024-12-14 04:22:06 +0000"
@@ -2648,6 +2846,12 @@
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_gold": "2024-12-14 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
     },
     "done": true
   },
@@ -2711,6 +2915,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-12-14 05:45:39 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2024-12-14 04:46:09 +0000"
@@ -2723,6 +2933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-14 05:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-14 04:57:52 +0000"
@@ -2732,6 +2948,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-14 05:39:31 +0000"
     },
     "done": true
   },
@@ -2976,6 +3198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
     "criteria": {
       "has_iron": "2024-12-14 04:28:10 +0000"
@@ -3006,6 +3234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra_candles": {
     "criteria": {
       "has_gold": "2024-12-14 04:04:24 +0000"
@@ -3021,6 +3255,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-14 03:32:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
     },
     "done": true
   },
@@ -3108,6 +3348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 05:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 04:04:24 +0000"
@@ -3116,6 +3362,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-14 05:43:22 +0000",
       "apple": "2024-12-14 03:35:27 +0000",
       "bread": "2024-12-14 04:39:07 +0000",
       "rotten_flesh": "2024-12-14 03:25:15 +0000"
@@ -3227,6 +3474,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:41:02 +0000"
     },
     "done": true
   },
