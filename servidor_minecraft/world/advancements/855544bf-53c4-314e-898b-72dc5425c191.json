@@ -455,7 +455,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-14 03:44:22 +0000",
       "minecraft:creeper": "2024-12-14 03:50:24 +0000",
-      "minecraft:zombie": "2024-12-14 03:34:27 +0000"
+      "minecraft:zombie": "2024-12-14 03:34:27 +0000",
+      "minecraft:zombie_villager": "2024-12-14 05:28:04 +0000"
     },
     "done": false
   },
@@ -1388,6 +1389,12 @@
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2024-12-14 04:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 05:27:29 +0000"
     },
     "done": true
   },
@@ -2971,6 +2978,12 @@
   "supertools:supertools/bag_of_bonemeal": {
     "criteria": {
       "bone_meal_tool": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 05:27:29 +0000"
     },
     "done": true
   },
