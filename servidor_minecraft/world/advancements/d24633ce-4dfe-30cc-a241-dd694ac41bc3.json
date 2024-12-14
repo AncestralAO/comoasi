@@ -1008,11 +1008,15 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-14 03:53:11 +0000",
+      "woodland": "2024-12-14 21:27:13 +0000",
+      "shrubland": "2024-12-14 21:18:36 +0000",
       "snowblossom_grove": "2024-12-14 03:52:33 +0000",
       "rocky_shrubland": "2024-12-14 03:18:33 +0000",
+      "scrubland": "2024-12-14 21:21:17 +0000",
       "clover_patch": "2024-12-14 20:56:04 +0000",
       "cold_desert": "2024-12-14 03:39:35 +0000",
       "maple_woods": "2024-12-14 20:55:44 +0000",
+      "mediterranean_forest": "2024-12-14 21:22:43 +0000",
       "coniferous_forest": "2024-12-14 03:18:32 +0000",
       "redwood_forest": "2024-12-14 20:56:16 +0000",
       "seasonal_forest": "2024-12-14 20:56:18 +0000",
@@ -1626,7 +1630,8 @@
       "sweet_berries": "2024-12-14 03:30:05 +0000",
       "apple": "2024-12-14 03:33:47 +0000",
       "bread": "2024-12-14 03:22:12 +0000",
-      "golden_apple": "2024-12-14 03:49:30 +0000"
+      "golden_apple": "2024-12-14 03:49:30 +0000",
+      "carrot": "2024-12-14 21:22:03 +0000"
     },
     "done": false
   },
@@ -2788,6 +2793,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-14 21:29:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2024-12-14 21:15:49 +0000"
@@ -2800,9 +2811,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-14 21:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
     "criteria": {
       "has_ultimate_holy_water": "2024-12-14 21:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-14 21:29:09 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-14 21:22:27 +0000"
     },
     "done": true
   },
@@ -2815,6 +2844,12 @@
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2024-12-14 21:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-14 21:29:09 +0000"
     },
     "done": true
   },
@@ -2851,6 +2886,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-14 21:09:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-14 21:29:09 +0000"
     },
     "done": true
   },

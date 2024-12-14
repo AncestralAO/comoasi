@@ -1,12 +1,5 @@
 [
   {
-    "inputItem": "sophisticatedbackpacks:smoking_upgrade:1",
-    "outputItems": [
-      "minecraft:dark_oak_log:4",
-      "sophisticatedbackpacks:smelting_upgrade:1"
-    ]
-  },
-  {
     "inputItem": "sophisticatedbackpacks:smelting_upgrade:1",
     "outputItems": [
       "minecraft:redstone:4",
@@ -20,6 +13,26 @@
     "outputItems": [
       "minecraft:copper_ingot:4",
       "minecraft:quartz:1"
+    ]
+  },
+  {
+    "inputItem": "sophisticatedbackpacks:smoking_upgrade:1",
+    "outputItems": [
+      "minecraft:dark_oak_log:4",
+      "sophisticatedbackpacks:smelting_upgrade:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:honeycomb:6",
+    "outputItems": [
+      "mysticalagriculture:honey_essence:3"
+    ]
+  },
+  {
+    "inputItem": "not_just_sandwich:cod_sandwich:1",
+    "outputItems": [
+      "not_just_sandwich:cut_bread:2",
+      "minecraft:cooked_cod:1"
     ]
   }
 ]
