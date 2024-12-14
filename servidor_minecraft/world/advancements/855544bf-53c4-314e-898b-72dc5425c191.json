@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 04:49:29 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/obsidian_leggings": {
     "criteria": {
       "has_obsidian": "2024-12-14 03:13:10 +0000"
@@ -376,6 +382,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-14 03:13:10 +0000",
       "has_fillet_knife": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-14 04:53:40 +0000"
     },
     "done": true
   },
@@ -525,6 +537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-14 04:53:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:34:15 +0000"
@@ -540,6 +558,18 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:34:15 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/build_recycler": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 04:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-14 04:53:58 +0000"
     },
     "done": true
   },
@@ -576,6 +606,12 @@
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2024-12-14 04:06:45 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/build_disk": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 04:56:51 +0000"
     },
     "done": true
   },
@@ -687,9 +723,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2024-12-14 04:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-14 04:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 04:49:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/fire_place": {
     "criteria": {
       "has_logs": "2024-12-14 03:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-14 04:53:40 +0000"
     },
     "done": true
   },
@@ -780,6 +840,12 @@
   "supertools:recipes/tools/copper_hoe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-14 04:49:29 +0000"
     },
     "done": true
   },
@@ -933,6 +999,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-14 04:08:12 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/moonlight_edge": {
+    "criteria": {
+      "blowgun": "2024-12-14 04:53:40 +0000"
     },
     "done": true
   },
@@ -1274,6 +1346,12 @@
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-14 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-14 04:53:58 +0000"
     },
     "done": true
   },
@@ -1885,6 +1963,12 @@
     },
     "done": true
   },
+  "corail_recycler:tutorial/read_recycling_book": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 04:57:27 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/emerald_shovel": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -2366,6 +2450,12 @@
     },
     "done": true
   },
+  "corail_recycler:tutorial/first_recycle": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 04:57:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:34:15 +0000"
@@ -2558,11 +2648,29 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-14 04:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-14 04:53:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_plains": {
     "criteria": {
       "sweetpotato_seed": "2024-12-14 03:36:20 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-12-14 04:50:54 +0000"
+    },
+    "done": true
   },
   "croptopia:root": {
     "criteria": {
