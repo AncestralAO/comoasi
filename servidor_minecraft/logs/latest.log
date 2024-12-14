@@ -1670,3 +1670,216 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [14Dec2024 20:12:47.138] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Dec2024 20:12:47.138] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Dec2024 20:12:47.139] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:48.231] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:48.232] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:48.232] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:48.233] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:49.607] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:49.663] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:49.664] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:49.664] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:49.665] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:12:59.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[14Dec2024 20:13:12.608] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[14Dec2024 20:13:13.131] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[14Dec2024 20:13:13.303] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.303] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.304] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.304] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.316] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.318] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.319] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.323] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:13.323] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:16.239] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[14Dec2024 20:13:16.240] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[14Dec2024 20:13:16.241] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[14Dec2024 20:13:16.258] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[14Dec2024 20:13:16.259] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[14Dec2024 20:13:19.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14Dec2024 20:13:20.463] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:20.464] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:20.464] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:20.465] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:20.494] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:20.495] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:20.496] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:20.496] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:23.222] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:24.732] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[14Dec2024 20:13:34.405] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:34.406] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:34.406] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:34.406] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:34.407] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:37.774] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:13:45.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[14Dec2024 20:13:45.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[14Dec2024 20:13:45.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[14Dec2024 20:13:46.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[14Dec2024 20:13:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:14:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:14:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki hit the ground too hard whilst trying to escape Ice Dragon
+[14Dec2024 20:14:20.084] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[14Dec2024 20:14:20.084] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[14Dec2024 20:14:20.085] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[14Dec2024 20:14:21.777] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=35, z=-533}
+[14Dec2024 20:14:21.778] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=36, z=-533}
+[14Dec2024 20:14:22.456] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[14Dec2024 20:14:22.457] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[14Dec2024 20:14:22.457] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[14Dec2024 20:14:22.458] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[14Dec2024 20:14:22.458] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[14Dec2024 20:14:22.458] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[14Dec2024 20:14:22.459] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[14Dec2024 20:14:22.459] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[14Dec2024 20:14:22.459] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[14Dec2024 20:14:22.459] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[14Dec2024 20:14:22.460] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[14Dec2024 20:14:22.460] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[14Dec2024 20:14:25.257] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[14Dec2024 20:14:25.257] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[14Dec2024 20:14:25.258] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[14Dec2024 20:14:25.258] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[14Dec2024 20:14:25.258] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[14Dec2024 20:14:25.258] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[14Dec2024 20:14:25.258] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[14Dec2024 20:14:25.259] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[14Dec2024 20:14:25.259] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[14Dec2024 20:14:25.259] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[14Dec2024 20:14:25.259] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[14Dec2024 20:14:25.260] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[14Dec2024 20:14:25.260] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[14Dec2024 20:14:30.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:14:33.237] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[14Dec2024 20:14:33.237] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[14Dec2024 20:14:33.473] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[14Dec2024 20:14:33.474] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[14Dec2024 20:14:33.474] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[14Dec2024 20:14:37.633] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[14Dec2024 20:14:37.633] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[14Dec2024 20:14:37.634] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[14Dec2024 20:14:37.634] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[14Dec2024 20:14:39.597] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[14Dec2024 20:14:39.598] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[14Dec2024 20:14:40.030] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[14Dec2024 20:14:40.031] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[14Dec2024 20:14:43.518] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[14Dec2024 20:14:43.547] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[14Dec2024 20:14:43.937] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:14:43.937] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:14:45.167] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[14Dec2024 20:14:45.168] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[14Dec2024 20:14:45.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14Dec2024 20:15:00.164] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[14Dec2024 20:15:00.164] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[14Dec2024 20:15:01.683] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:01.683] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:01.683] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:01.684] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:01.684] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:01.687] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[14Dec2024 20:15:01.696] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[14Dec2024 20:15:01.696] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:01.702] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[14Dec2024 20:15:01.703] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[14Dec2024 20:15:01.703] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[14Dec2024 20:15:01.703] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[14Dec2024 20:15:03.910] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:03.911] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:03.911] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:03.920] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:03.920] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:03.920] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:03.921] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:03.924] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:04.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14Dec2024 20:15:04.803] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:04.803] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:04.804] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:04.804] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:06.227] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:06.227] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:06.227] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:08.294] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:10.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19783, l='ServerLevel[world]', x=201.28, y=69.94, z=-3608.68] died, message: 'Villager burned to death'
+[14Dec2024 20:15:11.054] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.055] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.055] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.078] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.079] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.080] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.080] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.081] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.082] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.082] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.083] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:11.083] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:15:16.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priest'/19785, l='ServerLevel[world]', x=205.05, y=72.00, z=-3597.64] died, message: 'Priest burned to death'
+[14Dec2024 20:15:20.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19721, l='ServerLevel[world]', x=196.55, y=70.00, z=-3636.29] died, message: 'Villager burned to death'
+[14Dec2024 20:15:23.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:15:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki walked into a cactus whilst trying to escape Ice Dragon
+[14Dec2024 20:15:29.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:15:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki walked into a cactus whilst trying to escape Ice Dragon
+[14Dec2024 20:15:42.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:16:00.242] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:16:49.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[14Dec2024 20:16:54.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[14Dec2024 20:16:58.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:17:05.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:17:11.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:17:14.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:17:15.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:17:19.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:17:32.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[14Dec2024 20:17:33.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:17:35.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:17:38.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[14Dec2024 20:17:49.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:17:56.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
+[14Dec2024 20:17:57.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priest'/19782, l='ServerLevel[world]', x=204.54, y=76.00, z=-3597.45] died, message: 'Priest was incinerated by Fire Dragon'
+[14Dec2024 20:18:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:18:05.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:18:05.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved wrongly!
+[14Dec2024 20:18:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Not a Diamond]
+[14Dec2024 20:18:08.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Apothic Affixes]
+[14Dec2024 20:18:08.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [I Found It Underground]
+[14Dec2024 20:18:08.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has reached the goal [Worthy Equipment]
+[14Dec2024 20:18:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:18:14.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:18:14.804] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[14Dec2024 20:18:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:18:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:18:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:18:48.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[14Dec2024 20:18:58.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:19:02.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[14Dec2024 20:19:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:19:16.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was frozen by Kazuruki
+[14Dec2024 20:19:16.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was frozen by Ice Dragon
+[14Dec2024 20:19:18.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Ice Dragon
+[14Dec2024 20:19:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was slain by Ice Dragon
+[14Dec2024 20:19:22.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was turned to ice by Ice Dragon
+[14Dec2024 20:19:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:19:27.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was turned to ice by Ice Dragon
+[14Dec2024 20:19:27.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was turned to ice by Ice Dragon
+[14Dec2024 20:19:30.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Applied effect Regeneration to 3 targets]
+[14Dec2024 20:19:31.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Dragonslayer]
+[14Dec2024 20:19:48.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was turned into KFC by Fire Dragon
+[14Dec2024 20:19:53.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/19724, l='ServerLevel[world]', x=189.28, y=72.83, z=-3614.43] died, message: 'Scribe was slain by Fire Dragon'
+[14Dec2024 20:19:58.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 burned to death
+[14Dec2024 20:20:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[14Dec2024 20:21:18.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sanity15> xaero-waypoint:gui.xaero-deathpoint:D:198:70:-3628:0:false:0:Internal-overworld-waypoints
+[14Dec2024 20:21:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Sanity15]
+[14Dec2024 20:22:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 198.500000, 70.500000, -3627.500000]
+[14Dec2024 20:22:06.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Sanity15 to Graniter82a]
+[14Dec2024 20:22:13.483] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:22:13.484] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:22:13.484] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:22:13.484] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 20:22:21.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was burnt to a crisp whilst fighting Fire Dragon
+[14Dec2024 20:22:23.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/26474, l='ServerLevel[world]', x=231.30, y=77.00, z=-3632.50] died, message: 'Shepherd burned to death'
+[14Dec2024 20:22:31.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Applied effect Regeneration to 3 targets]
+[14Dec2024 20:22:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was slain by Fire Dragon
+[14Dec2024 20:23:00.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Applied effect Regeneration to 3 targets]
+[14Dec2024 20:23:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]

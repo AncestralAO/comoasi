@@ -805,6 +805,7 @@
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 03:55:55 +0000",
       "minecraft:beach": "2024-12-14 20:05:11 +0000",
+      "minecraft:river": "2024-12-14 20:13:28 +0000",
       "minecraft:snowy_plains": "2024-12-14 03:56:19 +0000",
       "minecraft:stony_shore": "2024-12-14 03:22:56 +0000",
       "minecraft:grove": "2024-12-14 03:56:20 +0000",
@@ -3604,6 +3605,30 @@
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2024-12-14 20:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-14 20:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 20:17:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-14 20:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 20:17:28 +0000"
     },
     "done": true
   },
