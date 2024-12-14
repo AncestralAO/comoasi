@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-14 04:08:12 +0000"
@@ -38,6 +44,12 @@
   "supertools:supertools/super_shovel": {
     "criteria": {
       "super_shovel": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -92,6 +104,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-14 04:45:48 +0000"
     },
     "done": true
   },
@@ -161,6 +179,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 03:45:50 +0000"
@@ -188,6 +218,12 @@
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
@@ -245,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-14 04:19:18 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/leafy_salad": {
     "criteria": {
       "has_spinach": "2024-12-14 03:59:53 +0000"
@@ -254,6 +296,12 @@
   "supertools:recipes/tools/golden_sickle": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
@@ -297,6 +345,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-14 03:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -352,6 +406,12 @@
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 03:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
@@ -495,6 +555,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
       "has_coble": "2024-12-14 03:20:55 +0000"
@@ -534,6 +606,12 @@
   "supertools:recipes/armor/quartz_leggings": {
     "criteria": {
       "has_quartz": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -621,11 +699,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-14 03:22:22 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2024-12-14 04:45:48 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
@@ -636,6 +726,12 @@
   "supertools:recipes/tools/copper_sword": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -674,6 +770,12 @@
       "has_items": "2024-12-14 03:13:10 +0000"
     },
     "done": true
+  },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2024-12-14 04:46:59 +0000"
+    },
+    "done": false
   },
   "supertools:recipes/tools/copper_hoe": {
     "criteria": {
@@ -735,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_forest": {
     "criteria": {
       "spinach_seed": "2024-12-14 03:45:35 +0000",
@@ -765,6 +873,12 @@
   "supertools:supertools/super_sickle": {
     "criteria": {
       "super_sickle": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -825,6 +939,12 @@
   "vampirism:recipes/decorations/vampire/chandelier": {
     "criteria": {
       "has_string": "2024-12-14 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
@@ -1042,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-14 03:46:10 +0000"
@@ -1121,6 +1247,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2024-12-14 04:05:15 +0000"
@@ -1160,6 +1298,12 @@
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
@@ -1241,6 +1385,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:34:15 +0000"
@@ -1307,6 +1457,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-14 04:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-14 03:13:10 +0000"
@@ -1343,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-14 04:46:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2024-12-14 04:06:45 +0000"
@@ -1364,6 +1532,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -1394,6 +1568,12 @@
   "supertools:recipes/tools/obsidian_axe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-14 04:19:18 +0000"
     },
     "done": true
   },
@@ -1445,6 +1625,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-14 04:45:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/altar_infusion": {
     "criteria": {
       "has_gold": "2024-12-14 03:45:50 +0000"
@@ -1460,6 +1646,12 @@
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-14 04:08:12 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
@@ -1571,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_fruit": "2024-12-14 03:19:58 +0000"
@@ -1598,6 +1796,12 @@
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2024-12-14 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -1711,6 +1915,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2024-12-14 03:17:47 +0000"
@@ -1813,6 +2035,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -1894,6 +2128,12 @@
   "croptopia:recipes/misc/grape_juice": {
     "criteria": {
       "has_grape": "2024-12-14 03:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
@@ -1999,6 +2239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:20:55 +0000"
@@ -2023,6 +2269,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/unlocked/thorn_blossom": {
     "criteria": {
       "blowgun": "2024-12-14 03:22:22 +0000"
@@ -2044,6 +2296,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-14 03:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -2135,6 +2393,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
     },
     "done": true
   },
@@ -2354,6 +2618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 03:49:02 +0000",
@@ -2428,6 +2698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 04:47:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:34:15 +0000"
@@ -2474,6 +2750,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-14 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-14 04:46:59 +0000"
     },
     "done": true
   },
