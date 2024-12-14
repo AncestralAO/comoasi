@@ -1388,8 +1388,10 @@
       "chicken": "2024-12-14 04:14:13 +0000",
       "cooked_mutton": "2024-12-14 04:04:26 +0000",
       "apple": "2024-12-14 03:49:24 +0000",
+      "pumpkin_pie": "2024-12-14 20:32:05 +0000",
       "mutton": "2024-12-14 04:11:42 +0000",
-      "bread": "2024-12-14 03:30:14 +0000"
+      "bread": "2024-12-14 03:30:14 +0000",
+      "cookie": "2024-12-14 20:31:11 +0000"
     },
     "done": false
   },
@@ -1403,9 +1405,12 @@
     "criteria": {
       "shrubland": "2024-12-14 03:35:07 +0000",
       "rocky_shrubland": "2024-12-14 03:34:14 +0000",
+      "orchard": "2024-12-14 20:40:17 +0000",
       "coniferous_forest": "2024-12-14 03:34:08 +0000",
+      "spider_nest": "2024-12-14 20:45:51 +0000",
       "seasonal_forest": "2024-12-14 03:36:01 +0000",
       "pumpkin_patch": "2024-12-14 04:06:14 +0000",
+      "grassland": "2024-12-14 20:33:35 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:40:18 +0000",
       "snowy_fir_clearing": "2024-12-14 03:50:29 +0000",
       "glowing_grotto": "2024-12-14 03:40:20 +0000",
@@ -1590,7 +1595,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-14 03:44:22 +0000",
+      "minecraft:spider": "2024-12-14 20:44:41 +0000",
       "minecraft:creeper": "2024-12-14 03:50:24 +0000",
+      "minecraft:cave_spider": "2024-12-14 20:56:33 +0000",
+      "minecraft:vex": "2024-12-14 20:59:16 +0000",
       "minecraft:zombie": "2024-12-14 03:34:27 +0000",
       "minecraft:zombie_villager": "2024-12-14 05:28:04 +0000"
     },
@@ -2601,6 +2609,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "calamari": "2024-12-14 20:50:31 +0000",
       "glowing_calamari": "2024-12-14 04:45:48 +0000"
     },
     "done": false
@@ -3337,9 +3346,15 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "1_splatus:spellbound/weapon/a": {
     "criteria": {
-      "deflected_projectile": "2024-12-14 20:10:36 +0000"
+      "dagger": "2024-12-14 20:07:49 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:spellbound/weapon/dagger": {
+    "criteria": {
+      "dagger": "2024-12-14 20:07:49 +0000"
     },
     "done": true
   },
@@ -3348,18 +3363,6 @@
       "has_prismarine_shard": "2024-12-14 20:07:56 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-14 20:08:22 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:spellbound/weapon/a": {
-    "criteria": {
-      "dagger": "2024-12-14 20:07:49 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
@@ -3373,15 +3376,231 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-14 20:08:22 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2024-12-14 20:08:50 +0000"
     },
     "done": true
   },
-  "1_splatus:spellbound/weapon/dagger": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "dagger": "2024-12-14 20:07:49 +0000"
+      "deflected_projectile": "2024-12-14 20:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-14 20:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-14 20:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2024-12-14 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-14 20:30:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-14 20:30:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-14 20:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-14 20:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-14 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2024-12-14 20:50:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2024-12-14 20:50:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2024-12-14 20:50:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-14 20:51:45 +0000"
     },
     "done": true
   },
