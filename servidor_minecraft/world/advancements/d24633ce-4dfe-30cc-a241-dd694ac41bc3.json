@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/spaghetti_squash": {
+    "criteria": {
+      "has_squash": "2024-12-14 03:27:34 +0000"
+    },
+    "done": true
+  },
   "supertools:supertools/super_shovel": {
     "criteria": {
       "super_shovel": "2024-12-14 03:17:20 +0000"
@@ -50,6 +56,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-14 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-14 03:35:41 +0000"
     },
     "done": true
   },
@@ -159,6 +171,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-14 03:17:20 +0000",
       "has_fillet_knife": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_roasted_squash": {
+    "criteria": {
+      "has_squash": "2024-12-14 03:27:34 +0000"
     },
     "done": true
   },
@@ -308,6 +326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-14 03:34:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:18:17 +0000"
@@ -323,6 +347,18 @@
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2024-12-14 03:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-14 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 03:30:22 +0000"
     },
     "done": true
   },
@@ -509,6 +545,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:19:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ratatouille": {
+    "criteria": {
+      "has_squash": "2024-12-14 03:27:34 +0000"
     },
     "done": true
   },
@@ -754,6 +796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 03:34:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-14 03:20:46 +0000"
@@ -815,9 +863,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 03:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:19:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-14 03:34:32 +0000"
     },
     "done": true
   },
@@ -881,6 +941,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2024-12-14 03:33:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
@@ -890,6 +956,12 @@
   "supertools:recipes/tools/redstone_hoe": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_wool": "2024-12-14 03:33:57 +0000"
     },
     "done": true
   },
@@ -971,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-14 03:29:15 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/emerald_sickle": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -980,6 +1058,12 @@
   "vampirism:recipes/combat/hunter/stake": {
     "criteria": {
       "has_sticks": "2024-12-14 03:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-14 03:29:15 +0000"
     },
     "done": true
   },
@@ -998,6 +1082,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-14 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2024-12-14 03:29:58 +0000"
     },
     "done": true
   },
@@ -1100,6 +1190,18 @@
   "supertools:recipes/armor/lapis_leggings": {
     "criteria": {
       "has_lapis": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/squash_seed": {
+    "criteria": {
+      "has_squash": "2024-12-14 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-14 03:33:57 +0000"
     },
     "done": true
   },
@@ -1332,6 +1434,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/chile_pepper_seed": {
+    "criteria": {
+      "has_chile_pepper": "2024-12-14 03:29:58 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/copper_chestplate": {
     "criteria": {
       "has_emerald": "2024-12-14 03:17:20 +0000"
@@ -1371,6 +1479,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 03:33:57 +0000"
     },
     "done": true
   },
@@ -1425,6 +1539,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-14 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 03:34:47 +0000"
     },
     "done": true
   },
@@ -1548,6 +1668,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 03:34:47 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/thorn_blossom": {
+    "criteria": {
+      "blowgun": "2024-12-14 03:34:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:18:18 +0000"
@@ -1630,6 +1762,12 @@
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 03:33:57 +0000"
     },
     "done": true
   },
@@ -1814,6 +1952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-14 03:29:15 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/redstone_sickle": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -1833,7 +1977,8 @@
       "minecraft:cold_ocean": "2024-12-14 03:23:38 +0000",
       "minecraft:forest": "2024-12-14 03:17:21 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 03:24:52 +0000",
-      "minecraft:frozen_ocean": "2024-12-14 03:25:24 +0000"
+      "minecraft:frozen_ocean": "2024-12-14 03:25:24 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-14 03:33:42 +0000"
     },
     "done": false
   },
@@ -1849,6 +1994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 03:30:22 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2024-12-14 03:17:21 +0000"
@@ -1857,6 +2008,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-12-14 03:30:05 +0000",
+      "apple": "2024-12-14 03:33:47 +0000",
       "bread": "2024-12-14 03:22:12 +0000"
     },
     "done": false
@@ -1937,6 +2090,12 @@
   "vampirism:recipes/decorations/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2024-12-14 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_chile_peppers": "2024-12-14 03:29:58 +0000"
     },
     "done": true
   },
