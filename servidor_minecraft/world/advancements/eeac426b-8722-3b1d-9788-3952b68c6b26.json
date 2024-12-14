@@ -809,7 +809,8 @@
       "minecraft:grove": "2024-12-14 03:56:20 +0000",
       "minecraft:cold_ocean": "2024-12-14 03:28:38 +0000",
       "minecraft:forest": "2024-12-14 03:17:51 +0000",
-      "minecraft:frozen_ocean": "2024-12-14 03:27:12 +0000"
+      "minecraft:frozen_ocean": "2024-12-14 03:27:12 +0000",
+      "minecraft:plains": "2024-12-14 04:09:41 +0000"
     },
     "done": false
   },
@@ -870,6 +871,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-14 04:09:12 +0000"
     },
     "done": true
   },
@@ -945,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-14 04:16:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/leafy_salad": {
     "criteria": {
       "has_spinach": "2024-12-14 03:22:52 +0000"
@@ -966,6 +979,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_the_recipe": "2024-12-14 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 04:09:55 +0000"
     },
     "done": true
   },
@@ -1056,6 +1075,12 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2024-12-14 04:15:26 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
       "has_coble": "2024-12-14 03:33:40 +0000"
@@ -1080,6 +1105,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2024-12-14 04:17:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2024-12-14 03:47:20 +0000"
@@ -1095,6 +1126,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 04:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-14 04:14:37 +0000"
     },
     "done": true
   },
@@ -1189,6 +1226,12 @@
     },
     "done": false
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-14 04:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-14 03:32:58 +0000"
@@ -1264,6 +1307,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-14 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-14 04:09:55 +0000"
     },
     "done": true
   },
@@ -1343,6 +1392,12 @@
   "croptopia:getseeds": {
     "criteria": {
       "has_seeds": "2024-12-14 03:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-14 04:09:12 +0000"
     },
     "done": true
   },
@@ -1496,9 +1551,21 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2024-12-14 04:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-14 03:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-14 04:14:37 +0000"
     },
     "done": true
   },
@@ -1532,6 +1599,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-14 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-14 04:16:02 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/windsweeper": {
+    "criteria": {
+      "blowgun": "2024-12-14 04:16:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:33:40 +0000"
@@ -1559,6 +1644,12 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-14 03:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 04:09:55 +0000"
     },
     "done": true
   },
@@ -1604,6 +1695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-14 04:16:08 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2024-12-14 03:47:20 +0000"
@@ -1635,6 +1732,7 @@
       "rocky_shrubland": "2024-12-14 03:27:07 +0000",
       "coniferous_forest": "2024-12-14 03:42:09 +0000",
       "seasonal_forest": "2024-12-14 03:28:59 +0000",
+      "pumpkin_patch": "2024-12-14 04:16:55 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:42:14 +0000",
       "snowy_fir_clearing": "2024-12-14 03:48:24 +0000"
     },
@@ -1712,6 +1810,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-14 04:16:39 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_gold": "2024-12-14 04:04:24 +0000"
@@ -1727,6 +1831,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:28:39 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-14 04:17:48 +0000"
     },
     "done": true
   },
@@ -1817,6 +1927,12 @@
   "croptopia:recipes/misc/sweetpotato_seed": {
     "criteria": {
       "has_sweetpotato": "2024-12-14 03:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-14 04:09:12 +0000"
     },
     "done": true
   },
