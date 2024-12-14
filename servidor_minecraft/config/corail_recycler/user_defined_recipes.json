@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "inputItem": "soulslikeuniverse:hollowsoul:2",
+    "outputItems": [
+      "minecraft:copper_ingot:4",
+      "minecraft:quartz:1"
+    ]
+  }
+]

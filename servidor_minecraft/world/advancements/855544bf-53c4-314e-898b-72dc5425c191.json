@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 03:45:50 +0000"
@@ -333,6 +339,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-14 03:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-14 05:34:55 +0000"
     },
     "done": true
   },
@@ -487,6 +499,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-14 05:37:12 +0000"
     },
     "done": true
   },
@@ -679,6 +697,12 @@
   "soulsweapons:root": {
     "criteria": {
       "crafting_table": "2024-12-14 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
     },
     "done": true
   },
@@ -1265,6 +1289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/weapon_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 04:04:09 +0000"
@@ -1443,6 +1473,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-14 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-14 05:33:34 +0000"
     },
     "done": true
   },
@@ -1836,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/copper_pickaxe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -2219,6 +2261,12 @@
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_string": "2024-12-14 03:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
     },
     "done": true
   },
@@ -2721,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/alchemical_cauldron": {
     "criteria": {
       "has_iron": "2024-12-14 04:04:09 +0000"
@@ -2772,6 +2826,12 @@
   "supertools:recipes/tools/copper_shovel": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
     },
     "done": true
   },
@@ -3111,6 +3171,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-14 05:37:45 +0000"
     },
     "done": true
   },
