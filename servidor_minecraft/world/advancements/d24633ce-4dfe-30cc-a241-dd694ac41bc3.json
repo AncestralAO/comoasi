@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-14 03:45:30 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/emerald_boots": {
     "criteria": {
       "has_emerald": "2024-12-14 03:17:20 +0000"
@@ -122,6 +134,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 03:43:09 +0000"
     },
     "done": true
   },
@@ -149,9 +167,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-12-14 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
     },
     "done": true
   },
@@ -167,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2024-12-14 03:17:20 +0000",
@@ -177,6 +213,12 @@
   "croptopia:recipes/shaped_roasted_squash": {
     "criteria": {
       "has_squash": "2024-12-14 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 03:43:09 +0000"
     },
     "done": true
   },
@@ -216,6 +258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2024-12-14 03:17:20 +0000",
@@ -243,6 +291,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-14 03:44:45 +0000",
       "minecraft:spider": "2024-12-14 03:21:12 +0000",
       "minecraft:creeper": "2024-12-14 03:26:17 +0000"
     },
@@ -278,6 +327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-14 03:21:46 +0000"
@@ -287,6 +342,12 @@
   "supertools:recipes/armor/quartz_boots": {
     "criteria": {
       "has_quartz": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -317,6 +378,12 @@
   "supertools:recipes/tools/obsidian_shovel": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -353,6 +420,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-14 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -500,6 +579,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/copper_hoe": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -584,6 +675,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-14 03:20:46 +0000"
@@ -614,6 +711,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
@@ -623,6 +732,18 @@
   "supertools:recipes/armor/lapis_boots": {
     "criteria": {
       "has_lapis": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/moonlight_edge": {
+    "criteria": {
+      "blowgun": "2024-12-14 03:45:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -655,9 +776,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2024-12-14 03:18:32 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-14 03:43:58 +0000"
     },
     "done": true
   },
@@ -911,6 +1044,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:19:35 +0000"
@@ -1043,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-14 03:29:15 +0000"
@@ -1109,6 +1260,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/obsidian_axe": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
@@ -1151,9 +1308,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
     },
     "done": true
   },
@@ -1175,6 +1350,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
@@ -1184,6 +1365,12 @@
   "supertools:recipes/tools/copper_pickaxe": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -1289,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:24:07 +0000"
@@ -1325,6 +1518,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:18:18 +0000"
@@ -1334,13 +1539,22 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "rocky_shrubland": "2024-12-14 03:18:33 +0000",
-      "coniferous_forest": "2024-12-14 03:18:32 +0000"
+      "cold_desert": "2024-12-14 03:39:35 +0000",
+      "coniferous_forest": "2024-12-14 03:18:32 +0000",
+      "snowy_coniferous_forest": "2024-12-14 03:38:17 +0000",
+      "snowy_fir_clearing": "2024-12-14 03:38:32 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-14 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -1389,6 +1603,12 @@
   "supertools:recipes/supertools/super_axe": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2024-12-14 03:47:36 +0000"
     },
     "done": true
   },
@@ -1464,6 +1684,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/candelabra": {
     "criteria": {
       "has_string": "2024-12-14 03:21:46 +0000"
@@ -1485,6 +1717,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-14 03:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -1518,6 +1762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:18:18 +0000"
@@ -1539,6 +1789,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-14 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -1632,9 +1888,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/supertools/super_sword": {
     "criteria": {
       "has_items": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
@@ -1732,6 +2000,12 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 03:43:09 +0000"
     },
     "done": true
   },
@@ -1972,8 +2246,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-14 03:37:35 +0000",
       "minecraft:river": "2024-12-14 03:19:01 +0000",
       "minecraft:stony_shore": "2024-12-14 03:18:12 +0000",
+      "minecraft:snowy_taiga": "2024-12-14 03:38:42 +0000",
+      "minecraft:grove": "2024-12-14 03:39:20 +0000",
       "minecraft:cold_ocean": "2024-12-14 03:23:38 +0000",
       "minecraft:forest": "2024-12-14 03:17:21 +0000",
       "minecraft:deep_cold_ocean": "2024-12-14 03:24:52 +0000",
@@ -1985,6 +2262,12 @@
   "supertools:supertools/super_hoe": {
     "criteria": {
       "super_hoe": "2024-12-14 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 03:47:26 +0000"
     },
     "done": true
   },
