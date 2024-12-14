@@ -894,9 +894,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-14 03:30:33 +0000",
+      "minecraft:spider": "2024-12-14 21:16:48 +0000",
       "minecraft:phantom": "2024-12-14 05:30:33 +0000",
       "minecraft:witch": "2024-12-14 03:31:24 +0000",
+      "minecraft:cave_spider": "2024-12-14 21:16:42 +0000",
       "minecraft:enderman": "2024-12-14 05:00:26 +0000",
+      "minecraft:stray": "2024-12-14 21:12:46 +0000",
       "minecraft:zombie": "2024-12-14 03:24:46 +0000",
       "minecraft:drowned": "2024-12-14 05:32:18 +0000",
       "minecraft:zombie_villager": "2024-12-14 03:24:25 +0000"
@@ -943,8 +946,10 @@
       "shrubland": "2024-12-14 20:22:02 +0000",
       "snowblossom_grove": "2024-12-14 03:54:08 +0000",
       "rocky_shrubland": "2024-12-14 03:27:07 +0000",
+      "clover_patch": "2024-12-14 21:12:08 +0000",
       "mystic_grove": "2024-12-14 20:06:52 +0000",
       "coniferous_forest": "2024-12-14 03:42:09 +0000",
+      "redwood_forest": "2024-12-14 21:12:02 +0000",
       "seasonal_orchard": "2024-12-14 04:26:51 +0000",
       "seasonal_forest": "2024-12-14 03:28:59 +0000",
       "pumpkin_patch": "2024-12-14 04:16:55 +0000",
@@ -4081,6 +4086,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-14 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-14 21:08:21 +0000"
     },
     "done": true
   },

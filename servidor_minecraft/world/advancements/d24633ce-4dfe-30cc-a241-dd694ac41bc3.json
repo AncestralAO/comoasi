@@ -1468,6 +1468,8 @@
       "minecraft:skeleton": "2024-12-14 03:44:45 +0000",
       "minecraft:spider": "2024-12-14 03:21:12 +0000",
       "minecraft:creeper": "2024-12-14 03:26:17 +0000",
+      "minecraft:cave_spider": "2024-12-14 21:11:12 +0000",
+      "minecraft:stray": "2024-12-14 21:10:35 +0000",
       "minecraft:zombie": "2024-12-14 03:49:38 +0000"
     },
     "done": false
@@ -2786,6 +2788,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 21:15:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-14 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/holy_water_bottle_enhanced_from_ultimate": {
+    "criteria": {
+      "has_ultimate_holy_water": "2024-12-14 21:10:19 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/root": {
     "criteria": {
       "second": "2024-12-14 21:08:04 +0000"
@@ -2798,9 +2818,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/holy_water_bottle_normal_from_enhanced": {
+    "criteria": {
+      "has_enhanced_holy_water": "2024-12-14 21:10:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "holy_water": "2024-12-14 21:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/garlic_finder": {
     "criteria": {
       "has_garlic": "2024-12-14 21:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 21:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 21:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 21:09:35 +0000"
     },
     "done": true
   },
