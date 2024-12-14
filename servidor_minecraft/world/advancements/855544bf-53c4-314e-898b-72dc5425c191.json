@@ -1,7 +1,25 @@
 {
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-14 03:25:39 +0000"
+    },
+    "done": true
+  },
   "supertools:supertools/super_shovel": {
     "criteria": {
       "super_shovel": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-14 03:19:58 +0000"
     },
     "done": true
   },
@@ -14,6 +32,18 @@
   "supertools:recipes/tools/quartz_shovel": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-14 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
     },
     "done": true
   },
@@ -47,9 +77,33 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/obsidian_leggings": {
     "criteria": {
       "has_obsidian": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
     },
     "done": true
   },
@@ -84,10 +138,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2024-12-14 03:13:10 +0000",
       "has_fillet_knife": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 03:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 03:25:14 +0000"
     },
     "done": true
   },
@@ -103,9 +181,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 03:25:14 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/armor/quartz_boots": {
     "criteria": {
       "has_quartz": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
     },
     "done": true
   },
@@ -127,6 +217,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/tombstone2": {
+    "criteria": {
+      "has_coble": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-12-14 03:19:58 +0000"
+    },
+    "done": true
+  },
   "supertools:supertools/super_axe": {
     "criteria": {
       "super_axe": "2024-12-14 03:13:10 +0000"
@@ -136,6 +238,12 @@
   "supertools:recipes/armor/quartz_leggings": {
     "criteria": {
       "has_quartz": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2024-12-14 03:18:29 +0000"
     },
     "done": true
   },
@@ -163,15 +271,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-14 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 03:25:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-14 03:13:10 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/fire_place": {
     "criteria": {
       "has_logs": "2024-12-14 03:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-14 03:22:22 +0000"
     },
     "done": true
   },
@@ -184,6 +316,24 @@
   "supertools:recipes/tools/copper_sword": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-14 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 03:25:14 +0000"
     },
     "done": true
   },
@@ -211,6 +361,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2024-12-14 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 03:20:47 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/emerald_pickaxe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -223,9 +385,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
   "supertools:supertools/super_sickle": {
     "criteria": {
       "super_sickle": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
     },
     "done": true
   },
@@ -270,9 +456,21 @@
     },
     "done": true
   },
+  "corail_recycler:recipes/recycler": {
+    "criteria": {
+      "requirement_1": "2024-12-14 03:17:47 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
     },
     "done": true
   },
@@ -288,15 +486,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/emerald_axe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
     },
     "done": true
   },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-14 03:25:39 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crucifix": {
+    "criteria": {
+      "stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
     },
     "done": true
   },
@@ -337,6 +571,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -361,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/lapis_axe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -379,6 +637,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-14 03:20:21 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/redstone_hoe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -391,9 +655,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 03:25:14 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/quartz_pickaxe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/grave_cage": {
+    "criteria": {
+      "has_coal": "2024-12-14 03:22:34 +0000"
     },
     "done": true
   },
@@ -433,6 +715,30 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/stake": {
+    "criteria": {
+      "has_sticks": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/lapis_hoe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -442,6 +748,12 @@
   "supertools:recipes/tools/obsidian_axe": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
     },
     "done": true
   },
@@ -475,6 +787,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -499,9 +817,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-14 03:19:58 +0000"
+    },
+    "done": true
+  },
   "supertools:supertools/super_pickaxe": {
     "criteria": {
       "super_pickaxe": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-12-14 03:19:58 +0000"
     },
     "done": true
   },
@@ -511,15 +841,45 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-14 03:20:21 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/netherite_sickle": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
     },
     "done": true
   },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 03:25:14 +0000"
     },
     "done": true
   },
@@ -547,9 +907,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/lapis_sickle": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
     },
     "done": true
   },
@@ -562,6 +934,12 @@
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-14 03:20:21 +0000"
     },
     "done": true
   },
@@ -583,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-14 03:25:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -601,9 +985,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-14 03:22:34 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
     },
     "done": true
   },
@@ -631,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-14 03:20:50 +0000"
+    },
+    "done": true
+  },
   "usefulslime:recipes/jello": {
     "criteria": {
       "has_slime": "2024-12-14 03:13:10 +0000"
@@ -655,6 +1057,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -670,6 +1078,12 @@
   "supertools:recipes/supertools/cup": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/thorn_blossom": {
+    "criteria": {
+      "blowgun": "2024-12-14 03:22:22 +0000"
     },
     "done": true
   },
@@ -710,6 +1124,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/cross": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
@@ -722,15 +1142,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-14 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/wooden_sickle": {
+    "criteria": {
+      "has_items": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-14 03:13:10 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/bat_cage": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-14 03:20:50 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/iron_sickle": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2024-12-14 03:19:58 +0000"
     },
     "done": true
   },
@@ -746,15 +1196,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:tutorial/root": {
     "criteria": {
       "auto": "2024-12-14 03:13:11 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2024-12-14 03:19:58 +0000"
+    },
+    "done": true
+  },
   "supertools:recipes/tools/copper_shovel": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/alchemy_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
     },
     "done": true
   },
@@ -784,6 +1252,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:stony_shore": "2024-12-14 03:18:15 +0000",
       "minecraft:forest": "2024-12-14 03:13:11 +0000"
     },
     "done": false
@@ -791,6 +1260,12 @@
   "supertools:supertools/super_hoe": {
     "criteria": {
       "super_hoe": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
     },
     "done": true
   },
@@ -824,6 +1299,24 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 03:20:55 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2024-12-14 03:13:10 +0000",
@@ -834,6 +1327,30 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
     "criteria": {
       "has_items": "2024-12-14 03:13:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-14 03:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-14 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2024-12-14 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-14 03:22:22 +0000"
     },
     "done": true
   },
