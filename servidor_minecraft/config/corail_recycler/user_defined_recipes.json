@@ -9,6 +9,13 @@
     ]
   },
   {
+    "inputItem": "wom:diamond_staff:1",
+    "outputItems": [
+      "minecraft:diamond:2",
+      "minecraft:stick:1"
+    ]
+  },
+  {
     "inputItem": "soulslikeuniverse:hollowsoul:2",
     "outputItems": [
       "minecraft:copper_ingot:4",
