@@ -1608,6 +1608,7 @@
       "minecraft:spider": "2024-12-14 20:44:41 +0000",
       "minecraft:piglin_brute": "2024-12-15 03:32:56 +0000",
       "minecraft:creeper": "2024-12-14 03:50:24 +0000",
+      "minecraft:phantom": "2024-12-15 05:09:29 +0000",
       "minecraft:zombified_piglin": "2024-12-15 04:16:29 +0000",
       "minecraft:cave_spider": "2024-12-14 20:56:33 +0000",
       "minecraft:piglin": "2024-12-15 03:28:34 +0000",
@@ -3777,6 +3778,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-12-15 05:09:12 +0000"
     },
     "done": true
   },
