@@ -4485,6 +4485,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2024-12-15 03:30:19 +0000"
@@ -4509,6 +4515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-15 03:28:25 +0000"
@@ -4521,6 +4533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-15 03:30:19 +0000"
@@ -4530,6 +4548,24 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-15 03:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-15 03:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
     },
     "done": true
   },
@@ -4560,6 +4596,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-15 03:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
     },
     "done": true
   },
@@ -4632,6 +4674,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
     },
     "done": true
   },

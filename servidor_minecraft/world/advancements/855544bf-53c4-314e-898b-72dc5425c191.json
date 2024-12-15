@@ -3946,6 +3946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-15 04:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-15 03:31:46 +0000"
