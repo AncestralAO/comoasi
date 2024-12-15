@@ -3062,9 +3062,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-15 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-15 22:35:37 +0000"
     },
     "done": true
   },
@@ -3074,11 +3086,29 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-15 22:36:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-15 22:35:32 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "toast": "2024-12-15 22:12:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
   },
   "1_splatus:spellbound/unlocked/blowgun": {
     "criteria": {
@@ -3095,6 +3125,12 @@
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2024-12-15 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
     },
     "done": true
   },
@@ -3116,9 +3152,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/buttered_toast": {
     "criteria": {
       "has_toast": "2024-12-15 22:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
     },
     "done": true
   },
@@ -3134,9 +3182,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-15 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-15 22:38:19 +0000"
     },
     "done": true
   },

@@ -3394,3 +3394,61 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 22:32:04.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
 [15Dec2024 22:32:04.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Graniter82a
 [15Dec2024 22:32:04.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[15Dec2024 22:32:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Graniter82a
+[15Dec2024 22:32:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Sanity15 to Graniter82a]
+[15Dec2024 22:32:28.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 75.500000, 102.500000, -5307.500000]
+[15Dec2024 22:33:10.654] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:10.655] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:10.742] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:10.743] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:10.743] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:10.744] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:10.748] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:10.749] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck hit the ground too hard
+[15Dec2024 22:33:18.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck hit the ground too hard
+[15Dec2024 22:33:22.080] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:22.093] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:22.093] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:22.094] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:22.094] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:33:31.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:33:37.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:33:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was doomed to fall by crusader
+[15Dec2024 22:34:03.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Life turned out to be a comedy]
+[15Dec2024 22:34:07.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by knight
+[15Dec2024 22:34:14.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by knight
+[15Dec2024 22:34:18.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Zombie
+[15Dec2024 22:34:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
+[15Dec2024 22:34:46.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by knight
+[15Dec2024 22:34:53.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by knight
+[15Dec2024 22:35:04.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was shot by Skeleton
+[15Dec2024 22:35:11.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was shot by Skeleton
+[15Dec2024 22:35:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:35:32.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Ol' Betsy]
+[15Dec2024 22:35:36.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:35:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Take Aim]
+[15Dec2024 22:36:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:36:33.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Dragonslayer]
+[15Dec2024 22:36:33.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:36:43.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by successor
+[15Dec2024 22:36:47.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[15Dec2024 22:36:49.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by successor
+[15Dec2024 22:37:08.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by successor
+[15Dec2024 22:37:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by successor
+[15Dec2024 22:37:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:37:58.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was blown up by Creeper
+[15Dec2024 22:38:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Bad omen giant
+[15Dec2024 22:38:47.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[15Dec2024 22:38:52.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[15Dec2024 22:39:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[15Dec2024 22:39:07.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[15Dec2024 22:39:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[15Dec2024 22:39:16.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was shot by Skeleton
+[15Dec2024 22:40:14.602] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:40:14.603] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:40:14.603] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:40:14.603] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:40:14.604] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:40:17.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:40:17.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
