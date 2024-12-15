@@ -963,9 +963,10 @@
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2024-12-14 04:04:09 +0000",
+      "requirement_3": "2024-12-15 06:28:55 +0000",
       "requirement_1": "2024-12-14 03:17:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
@@ -1419,6 +1420,7 @@
       "redwood_forest": "2024-12-15 04:11:00 +0000",
       "visceral_heap": "2024-12-15 04:26:30 +0000",
       "seasonal_forest": "2024-12-14 03:36:01 +0000",
+      "lavender_field": "2024-12-15 06:17:13 +0000",
       "pumpkin_patch": "2024-12-14 04:06:14 +0000",
       "grassland": "2024-12-14 20:33:35 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:40:18 +0000",
@@ -3975,6 +3977,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-15 06:17:47 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2024-12-15 04:45:13 +0000"
@@ -4005,6 +4013,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2024-12-15 06:16:27 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2024-12-15 04:45:13 +0000"
@@ -4029,6 +4043,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-15 06:20:11 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_normal": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:07 +0000"
@@ -4044,6 +4064,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2024-12-15 03:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-15 06:31:39 +0000"
     },
     "done": true
   },
@@ -4278,6 +4304,12 @@
   "vampirism:recipes/combat/weapontable/hunter_axe_normal": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2024-12-15 06:16:27 +0000"
     },
     "done": true
   },
