@@ -1431,3 +1431,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 20:04:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
 [15Dec2024 20:04:36.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1759, l='ServerLevel[world]', x=73.30, y=63.00, z=-5262.06] died, message: 'Villager was slain by Zombie Bruiser'
 [15Dec2024 20:04:39.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1757, l='ServerLevel[world]', x=70.30, y=63.00, z=-5252.93] died, message: 'Villager was slain by Zombie Bruiser'
+[15Dec2024 20:05:35.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[15Dec2024 20:05:53.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Triggered [spellbound_recipes]]
+[15Dec2024 20:06:02.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[15Dec2024 20:06:20.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[15Dec2024 20:06:20.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1725, l='ServerLevel[world]', x=-15.16, y=68.00, z=-5109.34] died, message: 'Villager was slain by Zombie Villager'
+[15Dec2024 20:07:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cancholita: Teleported cancholita to 358.500000, -53.000000, -3647.500000]
+[15Dec2024 20:08:43.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [cancholita: Teleported cancholita to 1.500000, 65.000000, -5192.500000]
+[15Dec2024 20:08:48.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[15Dec2024 20:09:19.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cancholita has made the advancement [Dark Metallurgy]
+[15Dec2024 20:09:30.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[15Dec2024 20:10:02.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Triggered [spellbound_recipes] (set value to 2)]
+[15Dec2024 20:10:25.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[15Dec2024 20:11:00.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[15Dec2024 20:11:28.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Triggered [spellbound_recipes] (set value to 3)]
+[15Dec2024 20:11:34.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Triggered [spellbound_recipes] (set value to 4)]
+[15Dec2024 20:13:19.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/172.30.89.163:52863] logged in with entity id 5079 at (272.01099901309044, 74.0, -3577.1562402722107)
+[15Dec2024 20:13:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[15Dec2024 20:13:20.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanity15[/172.30.33.100:54900] logged in with entity id 5234 at (-285.4451692562849, 65.0, -3733.684453538818)
+[15Dec2024 20:13:20.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 joined the game
+[15Dec2024 20:13:22.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
+[15Dec2024 20:14:39.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[15Dec2024 20:14:46.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[15Dec2024 20:14:47.455] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 20:14:47.456] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 20:14:47.456] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 20:14:52.459] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 20:14:52.461] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 20:14:52.463] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 20:14:52.464] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 20:14:55.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to cancholita]
