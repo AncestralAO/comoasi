@@ -1,5 +1,20 @@
 [
   {
+    "inputItem": "wom:diamond_staff:1",
+    "outputItems": [
+      "minecraft:diamond:2",
+      "minecraft:stick:1"
+    ]
+  },
+  {
+    "inputItem": "terramity:dr_binty:1",
+    "outputItems": [
+      "minecraft:honey_bottle:1",
+      "minecraft:sugar:1",
+      "terramity:fairy_dust:1"
+    ]
+  },
+  {
     "inputItem": "sophisticatedbackpacks:smelting_upgrade:1",
     "outputItems": [
       "minecraft:redstone:4",
@@ -9,17 +24,10 @@
     ]
   },
   {
-    "inputItem": "wom:diamond_staff:1",
+    "inputItem": "not_just_sandwich:cod_sandwich:1",
     "outputItems": [
-      "minecraft:diamond:2",
-      "minecraft:stick:1"
-    ]
-  },
-  {
-    "inputItem": "soulslikeuniverse:hollowsoul:2",
-    "outputItems": [
-      "minecraft:copper_ingot:4",
-      "minecraft:quartz:1"
+      "not_just_sandwich:cut_bread:2",
+      "minecraft:cooked_cod:1"
     ]
   },
   {
@@ -36,10 +44,10 @@
     ]
   },
   {
-    "inputItem": "not_just_sandwich:cod_sandwich:1",
+    "inputItem": "soulslikeuniverse:hollowsoul:2",
     "outputItems": [
-      "not_just_sandwich:cut_bread:2",
-      "minecraft:cooked_cod:1"
+      "minecraft:copper_ingot:4",
+      "minecraft:quartz:1"
     ]
   }
 ]
