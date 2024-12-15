@@ -950,6 +950,7 @@
       "floodplain": "2024-12-14 21:47:46 +0000",
       "clover_patch": "2024-12-14 21:12:08 +0000",
       "mystic_grove": "2024-12-14 20:06:52 +0000",
+      "crystalline_chasm": "2024-12-14 22:15:12 +0000",
       "coniferous_forest": "2024-12-14 03:42:09 +0000",
       "redwood_forest": "2024-12-14 21:12:02 +0000",
       "seasonal_orchard": "2024-12-14 04:26:51 +0000",
@@ -4103,6 +4104,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-14 22:14:14 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-14 21:35:19 +0000"
@@ -4112,6 +4119,12 @@
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-12-14 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-14 22:11:21 +0000"
     },
     "done": true
   },
@@ -4303,6 +4316,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-14 22:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2024-12-14 21:27:53 +0000"
@@ -4387,9 +4406,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2024-12-14 22:06:13 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/molasses_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-14 21:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-14 22:14:11 +0000"
     },
     "done": true
   },
@@ -4402,6 +4433,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2024-12-14 21:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-14 22:03:15 +0000"
     },
     "done": true
   },
