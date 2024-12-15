@@ -7,6 +7,12 @@
     ]
   },
   {
+    "inputItem": "gobber2:gobber2_rod_nether:2",
+    "outputItems": [
+      "gobber2:gobber2_ingot_nether:2"
+    ]
+  },
+  {
     "inputItem": "terramity:dr_binty:1",
     "outputItems": [
       "minecraft:honey_bottle:1",

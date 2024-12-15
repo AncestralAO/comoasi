@@ -1408,10 +1408,12 @@
     "criteria": {
       "shrubland": "2024-12-14 03:35:07 +0000",
       "rocky_shrubland": "2024-12-14 03:34:14 +0000",
+      "erupting_inferno": "2024-12-15 04:10:41 +0000",
       "crystalline_chasm": "2024-12-15 03:23:22 +0000",
       "orchard": "2024-12-14 20:40:17 +0000",
       "coniferous_forest": "2024-12-14 03:34:08 +0000",
       "spider_nest": "2024-12-14 20:45:51 +0000",
+      "redwood_forest": "2024-12-15 04:11:00 +0000",
       "seasonal_forest": "2024-12-14 03:36:01 +0000",
       "pumpkin_patch": "2024-12-14 04:06:14 +0000",
       "grassland": "2024-12-14 20:33:35 +0000",
@@ -1602,8 +1604,10 @@
       "minecraft:spider": "2024-12-14 20:44:41 +0000",
       "minecraft:piglin_brute": "2024-12-15 03:32:56 +0000",
       "minecraft:creeper": "2024-12-14 03:50:24 +0000",
+      "minecraft:zombified_piglin": "2024-12-15 04:16:29 +0000",
       "minecraft:cave_spider": "2024-12-14 20:56:33 +0000",
       "minecraft:piglin": "2024-12-15 03:28:34 +0000",
+      "minecraft:enderman": "2024-12-15 04:15:12 +0000",
       "minecraft:vex": "2024-12-14 20:59:16 +0000",
       "minecraft:zombie": "2024-12-14 03:34:27 +0000",
       "minecraft:zombie_villager": "2024-12-14 05:28:04 +0000"
@@ -3726,7 +3730,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-12-15 03:26:20 +0000"
+      "minecraft:soul_sand_valley": "2024-12-15 03:26:20 +0000",
+      "minecraft:basalt_deltas": "2024-12-15 04:10:39 +0000"
     },
     "done": false
   },
