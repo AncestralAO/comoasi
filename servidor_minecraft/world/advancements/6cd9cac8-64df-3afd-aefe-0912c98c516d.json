@@ -3164,6 +3164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 05:48:58 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_axe_right": {
     "criteria": {
       "has_item": "2024-12-15 04:54:47 +0000"
@@ -3326,6 +3332,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-15 05:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-12-15 04:55:16 +0000"
@@ -3341,6 +3353,12 @@
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2024-12-15 05:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-15 05:41:19 +0000"
     },
     "done": true
   },
@@ -3419,6 +3437,18 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 04:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-15 05:49:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-15 05:42:18 +0000"
     },
     "done": true
   },
@@ -3599,6 +3629,12 @@
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper": {
     "criteria": {
       "has_waxed_weathered_copper": "2024-12-15 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-12-15 05:49:44 +0000"
     },
     "done": true
   },
