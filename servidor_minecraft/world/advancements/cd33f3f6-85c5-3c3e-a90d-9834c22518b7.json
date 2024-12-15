@@ -3116,6 +3116,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2024-12-15 23:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-15 22:51:02 +0000"
@@ -3128,9 +3134,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2024-12-15 23:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-15 22:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 23:11:20 +0000"
     },
     "done": true
   },
@@ -3139,6 +3157,18 @@
       "toast": "2024-12-15 22:12:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apricot_jam": {
+    "criteria": {
+      "has_apricot": "2024-12-15 23:05:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
@@ -3260,15 +3290,45 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/lemon_sapling": {
+    "criteria": {
+      "has_lemon": "2024-12-15 23:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 22:38:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-15 23:06:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2024-12-15 23:06:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apricot_sapling": {
+    "criteria": {
+      "has_apricot": "2024-12-15 23:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-15 23:01:20 +0000"
     },
     "done": true
   },
@@ -3290,9 +3350,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/starfruit_sapling": {
+    "criteria": {
+      "has_starfruit": "2024-12-15 23:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-15 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-15 23:10:48 +0000"
     },
     "done": true
   },
@@ -3305,6 +3377,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-15 22:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-15 23:10:48 +0000"
     },
     "done": true
   },
@@ -3326,6 +3404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-15 23:10:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-15 22:14:07 +0000"
@@ -3335,6 +3419,12 @@
   "croptopia:recipes/misc/orange_juice": {
     "criteria": {
       "has_orange": "2024-12-15 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 23:11:20 +0000"
     },
     "done": true
   },
