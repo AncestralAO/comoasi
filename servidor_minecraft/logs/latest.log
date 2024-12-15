@@ -3512,3 +3512,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 23:09:46.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Elite knight
 [15Dec2024 23:12:55.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sanity15 lost connection: Disconnected
 [15Dec2024 23:12:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 left the game
+[15Dec2024 23:35:28.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Shadow assassin
+[15Dec2024 23:35:34.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Shadow assassin
+[15Dec2024 23:35:56.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Noble knight
+[15Dec2024 23:36:02.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Noble knight
+[15Dec2024 23:37:23.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Duke Isheepdav the Sticky'/104708, l='ServerLevel[world]', x=3351.37, y=62.19, z=2223.31] died: Duke Isheepdav the Sticky died because of Chik3nBl4ck
+[15Dec2024 23:38:25.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
