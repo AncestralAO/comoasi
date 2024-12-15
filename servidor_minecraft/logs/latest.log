@@ -3518,3 +3518,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 23:36:02.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Noble knight
 [15Dec2024 23:37:23.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Duke Isheepdav the Sticky'/104708, l='ServerLevel[world]', x=3351.37, y=62.19, z=2223.31] died: Duke Isheepdav the Sticky died because of Chik3nBl4ck
 [15Dec2024 23:38:25.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[15Dec2024 23:48:49.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66023, l='ServerLevel[world]', x=73.64, y=63.00, z=-5253.50] died, message: 'Villager was slain by Zombie'
+[15Dec2024 23:49:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [I Found It Underground]
+[15Dec2024 23:52:15.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was killed by Creeper using magic
+[15Dec2024 23:52:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was killed by Creeper using magic
