@@ -4024,9 +4024,10 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "faction": "2024-12-15 06:05:57 +0000"
+      "faction": "2024-12-15 06:05:57 +0000",
+      "kill": "2024-12-15 07:47:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
