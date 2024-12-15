@@ -4076,6 +4076,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-15 07:43:19 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_normal": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:07 +0000"
@@ -4407,6 +4413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 07:43:19 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/comet_spear": {
     "criteria": {
       "has_item": "2024-12-15 04:45:13 +0000"
@@ -4416,6 +4428,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 05:46:35 +0000"
+    },
+    "done": true
+  },
+  "soulslikeuniverse:radagonhunter": {
+    "criteria": {
+      "radagonhunter": "2024-12-15 07:42:15 +0000"
     },
     "done": true
   },
@@ -4506,6 +4524,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-15 07:43:19 +0000"
     },
     "done": true
   },
