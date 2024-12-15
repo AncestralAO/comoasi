@@ -1413,6 +1413,7 @@
       "shrubland": "2024-12-14 03:35:07 +0000",
       "rocky_shrubland": "2024-12-14 03:34:14 +0000",
       "erupting_inferno": "2024-12-15 04:10:41 +0000",
+      "maple_woods": "2024-12-15 07:17:27 +0000",
       "crystalline_chasm": "2024-12-15 03:23:22 +0000",
       "orchard": "2024-12-14 20:40:17 +0000",
       "coniferous_forest": "2024-12-14 03:34:08 +0000",
@@ -4356,6 +4357,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-15 07:19:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/hunter_axe_normal": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:07 +0000"
@@ -4497,6 +4504,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-15 07:23:27 +0000"
     },
     "done": true
   },
