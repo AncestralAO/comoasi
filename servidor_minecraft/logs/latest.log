@@ -3452,3 +3452,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 22:40:14.604] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [15Dec2024 22:40:17.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [15Dec2024 22:40:17.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:29.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement [Not Today, Thank You]
+[15Dec2024 22:43:34.372] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.373] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.374] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.374] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.782] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.949] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.949] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.949] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:34.950] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:43:37.044] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:44:34.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
+[15Dec2024 22:45:32.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[15Dec2024 22:47:09.586] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:09.587] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:09.587] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:09.587] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:09.588] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:12.584] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:12.585] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.601] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.601] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.601] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.602] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.762] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.763] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.763] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:47:22.763] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:49:30.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 was slain by Mad knight
+[15Dec2024 22:49:58.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Creative Mode]
+[15Dec2024 22:54:08.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fran the Professional Animator'/82018, l='ServerLevel[world]', x=-1097.26, y=121.00, z=-4803.57] died: Fran the Professional Animator was slain by Sanity15
+[15Dec2024 22:54:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was doomed to fall
+[15Dec2024 22:54:16.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has completed the challenge [He Wasn't So Strong]
+[15Dec2024 22:54:18.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was doomed to fall
+[15Dec2024 22:55:22.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/81893, l='ServerLevel[world]', x=85.69, y=72.85, z=-5335.66] died: Honeyed Archer was slain by Dread Hound
+[15Dec2024 22:56:14.502] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:14.503] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:14.503] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:14.503] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:14.504] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:31.492] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:31.493] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:31.494] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:31.494] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 22:56:43.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Robert the Burger Chef'/84851, l='ServerLevel[world]', x=-898.61, y=91.00, z=-4507.25] died: Robert the Burger Chef was slain by Sanity15
+[15Dec2024 22:57:17.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Prison camp knight
+[15Dec2024 22:57:21.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Set own game mode to Survival Mode]
+[15Dec2024 22:57:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Prison camp knight
+[15Dec2024 23:00:37.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 is bleeding. Sanity15 blew up
+[15Dec2024 23:00:39.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 blew up
+[15Dec2024 23:00:52.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanity15: Teleported Sanity15 to -812.500000, 127.500000, -4898.500000]
+[15Dec2024 23:01:13.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Removed every effect from Graniter82a]
+[15Dec2024 23:01:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
