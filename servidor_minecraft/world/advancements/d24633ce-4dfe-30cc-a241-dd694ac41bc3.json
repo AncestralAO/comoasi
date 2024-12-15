@@ -1649,9 +1649,11 @@
       "cooked_porkchop": "2024-12-15 03:09:39 +0000",
       "cooked_mutton": "2024-12-14 22:02:24 +0000",
       "sweet_berries": "2024-12-14 03:30:05 +0000",
+      "porkchop": "2024-12-15 21:40:02 +0000",
       "apple": "2024-12-14 03:33:47 +0000",
       "bread": "2024-12-14 03:22:12 +0000",
       "golden_apple": "2024-12-14 03:49:30 +0000",
+      "cod": "2024-12-15 21:40:08 +0000",
       "carrot": "2024-12-14 21:22:03 +0000"
     },
     "done": false
@@ -4281,6 +4283,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2024-12-15 21:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-15 21:34:37 +0000"
@@ -4308,6 +4316,12 @@
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_wood": "2024-12-15 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-12-15 21:39:45 +0000"
     },
     "done": true
   },

@@ -2122,3 +2122,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 21:39:45.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Piece of Chaos]
 [15Dec2024 21:40:17.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Castle guard
 [15Dec2024 21:40:25.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:40:54.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:41:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:41:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[15Dec2024 21:41:44.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/30515, l='ServerLevel[world]', x=95.97, y=64.50, z=-5273.41] died, message: 'Toolsmith was slain by Zombie'
+[15Dec2024 21:41:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[15Dec2024 21:41:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:42:05.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:42:16.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[15Dec2024 21:42:18.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Chik3nBl4ck]
+[15Dec2024 21:42:59.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
+[15Dec2024 21:46:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Graniter82a> oe pollo
+[15Dec2024 21:46:16.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Graniter82a> estas a 8k bloques de mi jaus
+[15Dec2024 21:46:17.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chik3nBl4ck> ?
+[15Dec2024 21:46:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Graniter82a> como me voy rpido
+[15Dec2024 21:46:21.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Graniter82a> c:
+[15Dec2024 21:46:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Graniter82a> kiero llevarme a este indio a mi casa
+[15Dec2024 21:46:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chik3nBl4ck> El weiston
+[15Dec2024 21:47:03.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new Pig]
+[15Dec2024 21:48:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[15Dec2024 21:48:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 75.500000, 102.500000, -5307.500000]
+[15Dec2024 21:48:17.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[15Dec2024 21:49:43.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Mad knight
+[15Dec2024 21:49:49.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Mad knight
+[15Dec2024 21:50:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Mad knight
+[15Dec2024 21:50:11.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Mad knight
+[15Dec2024 21:50:26.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Mad knight
+[15Dec2024 21:50:32.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Mad knight
