@@ -803,7 +803,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-15 06:54:20 +0000",
+      "minecraft:birch_forest": "2024-12-15 06:47:47 +0000",
       "minecraft:beach": "2024-12-15 04:09:50 +0000",
+      "minecraft:dark_forest": "2024-12-15 06:48:07 +0000",
       "minecraft:river": "2024-12-15 04:23:41 +0000",
       "minecraft:stony_shore": "2024-12-15 03:43:01 +0000",
       "minecraft:forest": "2024-12-15 03:42:07 +0000",
@@ -1220,6 +1223,7 @@
       "shrubland": "2024-12-15 03:59:34 +0000",
       "rocky_shrubland": "2024-12-15 03:44:58 +0000",
       "orchard": "2024-12-15 04:31:25 +0000",
+      "field": "2024-12-15 06:53:12 +0000",
       "lavender_forest": "2024-12-15 04:23:53 +0000",
       "coniferous_forest": "2024-12-15 03:45:29 +0000",
       "redwood_forest": "2024-12-15 04:07:55 +0000",
@@ -1239,6 +1243,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-15 03:45:32 +0000",
       "minecraft:spider": "2024-12-15 04:22:08 +0000",
+      "minecraft:creeper": "2024-12-15 06:44:00 +0000",
       "minecraft:phantom": "2024-12-15 06:13:31 +0000",
       "minecraft:zombie": "2024-12-15 04:04:38 +0000",
       "minecraft:zombie_villager": "2024-12-15 05:27:08 +0000"
@@ -3112,6 +3117,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-15 06:38:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-15 04:50:50 +0000"
@@ -3121,6 +3138,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-15 04:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-15 06:44:48 +0000"
     },
     "done": true
   },
@@ -3145,6 +3168,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-15 06:13:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-15 06:40:21 +0000"
     },
     "done": true
   },
@@ -3190,6 +3219,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_copper": "2024-12-15 04:52:34 +0000"
@@ -3211,6 +3246,12 @@
   "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
       "has_item": "2024-12-15 04:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
     },
     "done": true
   },
@@ -3304,9 +3345,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-15 06:44:48 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_hoe_right": {
     "criteria": {
       "has_item": "2024-12-15 04:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
     },
     "done": true
   },
@@ -3472,6 +3525,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-15 06:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-15 04:57:30 +0000"
@@ -3514,15 +3579,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-15 06:38:29 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:moonstone": {
     "criteria": {
       "item": "2024-12-15 04:54:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 04:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-15 06:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-15 06:38:41 +0000"
     },
     "done": true
   },
@@ -3553,6 +3648,12 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2024-12-15 06:30:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
     },
     "done": true
   },
@@ -3598,6 +3699,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 04:55:13 +0000"
@@ -3613,6 +3720,12 @@
   "soulsweapons:recipes/tools/moonstone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-15 04:54:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
     },
     "done": true
   },
@@ -3652,6 +3765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-15 04:55:09 +0000"
@@ -3664,9 +3783,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-12-15 04:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
     },
     "done": true
   },
@@ -3676,9 +3807,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
+    },
+    "done": true
+  },
   "terramity:warden_soul_advancement": {
     "criteria": {
       "warden_soul_advancement_0": "2024-12-15 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:40:21 +0000"
     },
     "done": true
   },
@@ -3700,9 +3843,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-15 06:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-15 04:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-15 06:40:17 +0000"
     },
     "done": true
   },
@@ -3739,6 +3900,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-15 05:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-12-15 06:50:17 +0000"
     },
     "done": true
   },

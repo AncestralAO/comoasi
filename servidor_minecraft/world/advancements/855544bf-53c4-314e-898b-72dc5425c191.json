@@ -3923,6 +3923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-15 03:39:53 +0000"
@@ -3965,6 +3971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-15 04:23:40 +0000"
@@ -3995,6 +4007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/hunter_coat_chest_enhanced": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:17 +0000"
@@ -4016,6 +4034,12 @@
   "vampirism:recipes/decorations/hunter/hunter_table": {
     "criteria": {
       "has_fang": "2024-12-15 06:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
     },
     "done": true
   },
@@ -4103,6 +4127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 05:46:35 +0000"
@@ -4133,6 +4163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/hunter_coat_head_enhanced": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:17 +0000"
@@ -4142,6 +4178,12 @@
   "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_normal": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-15 06:36:37 +0000"
     },
     "done": true
   },
@@ -4214,6 +4256,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-15 03:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-12-15 06:42:11 +0000"
     },
     "done": true
   },
@@ -4325,6 +4373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
@@ -4397,6 +4451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/freyr_sword": {
     "criteria": {
       "has_item": "2024-12-15 04:45:13 +0000"
@@ -4460,6 +4520,12 @@
   "vampirism:recipes/combat/weapontable/armor_of_swiftness_head_normal": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 06:39:05 +0000"
     },
     "done": true
   },
@@ -4529,6 +4595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 05:46:35 +0000"
@@ -4559,9 +4631,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_enhanced": {
     "criteria": {
       "has_skill": "2024-12-15 06:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-15 06:36:37 +0000"
     },
     "done": true
   },
@@ -4616,6 +4700,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 06:39:05 +0000"
     },
     "done": true
   },
