@@ -1396,7 +1396,8 @@
       "mutton": "2024-12-14 04:11:42 +0000",
       "bread": "2024-12-14 03:30:14 +0000",
       "golden_apple": "2024-12-15 04:21:27 +0000",
-      "cookie": "2024-12-14 20:31:11 +0000"
+      "cookie": "2024-12-14 20:31:11 +0000",
+      "golden_carrot": "2024-12-15 06:09:51 +0000"
     },
     "done": false
   },
@@ -3736,6 +3737,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_head_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-15 05:46:54 +0000"
@@ -3760,9 +3767,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:lord_soul": {
     "criteria": {
       "soul": "2024-12-15 04:45:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_head_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
     },
     "done": true
   },
@@ -3771,6 +3790,18 @@
       "has_deepslate_bricks": "2024-12-15 05:46:54 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2024-12-15 06:05:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "main": "2024-12-15 06:05:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
@@ -3800,11 +3831,23 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
       "has_item": "2024-12-15 04:45:13 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/kill_resurrected_vampire": {
+    "criteria": {
+      "main": "2024-12-15 06:05:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
@@ -3817,6 +3860,18 @@
       "big_boy_0": "2024-12-15 05:09:12 +0000"
     },
     "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_tech_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/max_lord": {
+    "criteria": {
+      "main": "2024-12-15 06:05:57 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
@@ -3854,6 +3909,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-15 03:39:53 +0000"
@@ -3863,6 +3924,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-15 03:39:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
     },
     "done": true
   },
@@ -3914,6 +3981,24 @@
     },
     "done": true
   },
+  "vampirism:hunter/max_level": {
+    "criteria": {
+      "level": "2024-12-15 06:05:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_chest_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "faction": "2024-12-15 06:05:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-15 05:46:54 +0000"
@@ -3941,6 +4026,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
     },
     "done": true
   },
@@ -4016,6 +4107,36 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_head_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_legs_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_feet_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_0": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_hat_head_1": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-15 03:44:40 +0000"
@@ -4031,6 +4152,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-15 04:23:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_spitfire": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
     },
     "done": true
   },
@@ -4064,6 +4191,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_vampire_killer": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-15 03:44:19 +0000"
@@ -4087,6 +4220,12 @@
       "has_item": "2024-12-15 04:45:13 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2024-12-15 06:05:57 +0000"
+    },
+    "done": false
   },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
@@ -4136,6 +4275,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_axe_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/holy_moonlight_sword": {
     "criteria": {
       "has_lord_soul": "2024-12-15 04:45:13 +0000"
@@ -4151,6 +4296,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/pitchfork": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
     },
     "done": true
   },
@@ -4208,6 +4359,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/hunter_coat_chest_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/freyr_sword": {
     "criteria": {
       "has_item": "2024-12-15 04:45:13 +0000"
@@ -4232,6 +4389,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/enhanced_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 03:13:46 +0000"
@@ -4247,6 +4410,36 @@
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2024-12-15 04:36:35 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/basic_double_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/enhanced_tech_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_head_normal": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_feet_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_coat_legs_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
     },
     "done": true
   },
@@ -4322,9 +4515,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/tech_crossbow_ammo_package": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-15 05:46:54 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_chest_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crossbow_arrow_teleport": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/armor_of_swiftness_feet_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:17 +0000"
     },
     "done": true
   },
@@ -4337,6 +4554,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-15 03:28:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/hunter_axe_enhanced": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:16 +0000"
     },
     "done": true
   },
@@ -4370,11 +4593,29 @@
     },
     "done": true
   },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2024-12-15 06:05:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 05:46:35 +0000"
     },
     "done": true
+  },
+  "vampirism:recipes/combat/weapontable/enhanced_double_crossbow": {
+    "criteria": {
+      "has_skill": "2024-12-15 06:06:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2024-12-15 06:05:57 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {

@@ -1239,6 +1239,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-15 03:45:32 +0000",
       "minecraft:spider": "2024-12-15 04:22:08 +0000",
+      "minecraft:phantom": "2024-12-15 06:13:31 +0000",
       "minecraft:zombie": "2024-12-15 04:04:38 +0000",
       "minecraft:zombie_villager": "2024-12-15 05:27:08 +0000"
     },
@@ -1474,6 +1475,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2024-12-15 06:11:50 +0000",
       "bread": "2024-12-15 03:46:41 +0000"
     },
     "done": false
@@ -3080,6 +3082,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-12-15 06:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-15 04:55:11 +0000"
@@ -3116,9 +3124,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-12-15 06:13:02 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_armor": {
     "criteria": {
       "gobber2_chestplate": "2024-12-15 05:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 06:13:02 +0000"
     },
     "done": true
   },
@@ -3200,6 +3220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-15 06:13:02 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:verglas": {
     "criteria": {
       "item": "2024-12-15 04:53:05 +0000"
@@ -3278,6 +3304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 06:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-12-15 04:55:16 +0000"
@@ -3302,9 +3334,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-15 06:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 04:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 05:57:42 +0000"
     },
     "done": true
   },
@@ -3317,6 +3361,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 04:55:13 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2024-12-15 06:10:13 +0000"
     },
     "done": true
   },
@@ -3464,6 +3514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-15 06:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-15 04:55:13 +0000"
@@ -3554,6 +3610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-15 06:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-12-15 04:51:42 +0000"
@@ -3596,6 +3658,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-15 06:12:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_the_recipe": "2024-12-15 04:58:21 +0000"
@@ -3611,6 +3679,12 @@
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
     "criteria": {
       "has_waxed_exposed_copper": "2024-12-15 04:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 05:57:42 +0000"
     },
     "done": true
   },
@@ -3635,6 +3709,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2024-12-15 05:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-15 06:09:08 +0000"
     },
     "done": true
   },
