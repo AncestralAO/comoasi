@@ -5138,18 +5138,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/chilli_relleno": {
-    "criteria": {
-      "has_egg": "2024-12-15 20:42:19 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/scrambled_eggs": {
-    "criteria": {
-      "has_egg": "2024-12-15 20:42:19 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2024-12-15 20:41:21 +0000"
@@ -5159,6 +5147,18 @@
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2024-12-15 20:41:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2024-12-15 20:42:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2024-12-15 20:42:19 +0000"
     },
     "done": true
   },
@@ -5177,6 +5177,60 @@
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2024-12-15 20:42:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-15 20:48:59 +0000"
     },
     "done": true
   },
