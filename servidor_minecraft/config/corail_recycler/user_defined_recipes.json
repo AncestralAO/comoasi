@@ -15,6 +15,13 @@
     ]
   },
   {
+    "inputItem": "iceandfire:silver_pickaxe:1",
+    "outputItems": [
+      "iceandfire:silver_ingot:3",
+      "minecraft:stick:2"
+    ]
+  },
+  {
     "inputItem": "sophisticatedbackpacks:smelting_upgrade:1",
     "outputItems": [
       "minecraft:redstone:4",
@@ -35,6 +42,13 @@
     "outputItems": [
       "minecraft:dark_oak_log:4",
       "sophisticatedbackpacks:smelting_upgrade:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:crying_obsidian:1",
+    "outputItems": [
+      "soulslikeuniverse:giantsoul:4",
+      "minecraft:obsidian:1"
     ]
   },
   {

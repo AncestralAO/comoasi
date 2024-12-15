@@ -4689,6 +4689,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta0": {
+    "criteria": {
+      "enchanted_item": "2024-12-15 04:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-15 03:12:45 +0000"
