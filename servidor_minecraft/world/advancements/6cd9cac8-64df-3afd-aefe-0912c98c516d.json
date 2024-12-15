@@ -1239,7 +1239,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-15 03:45:32 +0000",
       "minecraft:spider": "2024-12-15 04:22:08 +0000",
-      "minecraft:zombie": "2024-12-15 04:04:38 +0000"
+      "minecraft:zombie": "2024-12-15 04:04:38 +0000",
+      "minecraft:zombie_villager": "2024-12-15 05:27:08 +0000"
     },
     "done": false
   },
@@ -3175,6 +3176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 05:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_the_recipe": "2024-12-15 04:50:22 +0000"
@@ -3445,6 +3452,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-15 05:25:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-15 04:52:54 +0000"
@@ -3490,6 +3503,12 @@
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_copper": "2024-12-15 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/thorn_blossom": {
+    "criteria": {
+      "blowgun": "2024-12-15 05:24:07 +0000"
     },
     "done": true
   },
@@ -3580,6 +3599,12 @@
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper": {
     "criteria": {
       "has_waxed_weathered_copper": "2024-12-15 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 05:24:07 +0000"
     },
     "done": true
   },
