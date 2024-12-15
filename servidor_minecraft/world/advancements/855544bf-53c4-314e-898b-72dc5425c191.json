@@ -1394,6 +1394,7 @@
       "pumpkin_pie": "2024-12-14 20:32:05 +0000",
       "mutton": "2024-12-14 04:11:42 +0000",
       "bread": "2024-12-14 03:30:14 +0000",
+      "golden_apple": "2024-12-15 04:21:27 +0000",
       "cookie": "2024-12-14 20:31:11 +0000"
     },
     "done": false
@@ -1414,12 +1415,14 @@
       "coniferous_forest": "2024-12-14 03:34:08 +0000",
       "spider_nest": "2024-12-14 20:45:51 +0000",
       "redwood_forest": "2024-12-15 04:11:00 +0000",
+      "visceral_heap": "2024-12-15 04:26:30 +0000",
       "seasonal_forest": "2024-12-14 03:36:01 +0000",
       "pumpkin_patch": "2024-12-14 04:06:14 +0000",
       "grassland": "2024-12-14 20:33:35 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:40:18 +0000",
       "snowy_fir_clearing": "2024-12-14 03:50:29 +0000",
       "glowing_grotto": "2024-12-14 03:40:20 +0000",
+      "undergrowth": "2024-12-15 04:27:52 +0000",
       "snowy_maple_woods": "2024-12-14 03:49:03 +0000"
     },
     "done": false
@@ -3358,7 +3361,9 @@
   },
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
-      "dagger": "2024-12-14 20:07:49 +0000"
+      "dagger": "2024-12-14 20:07:49 +0000",
+      "magmus_charger": "2024-12-15 04:41:25 +0000",
+      "warped_crossbow": "2024-12-15 04:21:20 +0000"
     },
     "done": false
   },
@@ -3730,10 +3735,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-15 04:28:45 +0000",
+      "minecraft:nether_wastes": "2024-12-15 04:27:41 +0000",
       "minecraft:soul_sand_valley": "2024-12-15 03:26:20 +0000",
-      "minecraft:basalt_deltas": "2024-12-15 04:10:39 +0000"
+      "minecraft:basalt_deltas": "2024-12-15 04:10:39 +0000",
+      "minecraft:warped_forest": "2024-12-15 04:27:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
@@ -3789,6 +3797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-15 04:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-15 03:39:53 +0000"
@@ -3837,9 +3851,27 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-15 04:38:31 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/nether_staffs": {
+    "criteria": {
+      "blowgun": "2024-12-15 04:31:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-15 03:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-15 04:23:40 +0000"
     },
     "done": true
   },
@@ -3927,6 +3959,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-15 04:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-15 03:23:21 +0000"
@@ -3966,6 +4004,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-15 03:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-15 04:23:40 +0000"
     },
     "done": true
   },
