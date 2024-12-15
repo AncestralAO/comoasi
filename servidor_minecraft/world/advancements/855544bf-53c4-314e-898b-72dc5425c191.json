@@ -3369,6 +3369,7 @@
     "criteria": {
       "dagger": "2024-12-14 20:07:49 +0000",
       "magmus_charger": "2024-12-15 04:41:25 +0000",
+      "moonlight_edge": "2024-12-15 07:04:28 +0000",
       "warped_crossbow": "2024-12-15 04:21:20 +0000"
     },
     "done": false
@@ -4318,6 +4319,12 @@
       "darkin_blade": "2024-12-15 04:45:04 +0000"
     },
     "done": false
+  },
+  "1_splatus:spellbound/weapon/moonlight_edge": {
+    "criteria": {
+      "moonlight_edge": "2024-12-15 07:04:28 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
