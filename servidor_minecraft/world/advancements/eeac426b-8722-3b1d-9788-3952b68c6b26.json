@@ -4635,6 +4635,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/protein_bar": {
+    "criteria": {
+      "has_caramel": "2024-12-15 05:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-15 03:30:19 +0000"
@@ -4656,6 +4662,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-15 03:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-15 05:19:08 +0000"
     },
     "done": true
   },
@@ -4760,6 +4772,12 @@
       "has_item": "2024-12-15 03:30:19 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2024-12-15 05:14:52 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {

@@ -1029,6 +1029,7 @@
       "redwood_forest": "2024-12-14 20:56:16 +0000",
       "seasonal_forest": "2024-12-14 20:56:18 +0000",
       "auroral_garden": "2024-12-15 05:10:34 +0000",
+      "fir_clearing": "2024-12-15 05:21:32 +0000",
       "pumpkin_patch": "2024-12-14 20:55:38 +0000",
       "grassland": "2024-12-15 04:19:23 +0000",
       "snowy_coniferous_forest": "2024-12-14 03:38:17 +0000",
@@ -1480,7 +1481,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-15 05:16:51 +0000",
       "minecraft:skeleton": "2024-12-14 03:44:45 +0000",
+      "minecraft:ravager": "2024-12-15 05:17:01 +0000",
       "minecraft:spider": "2024-12-14 03:21:12 +0000",
       "minecraft:creeper": "2024-12-14 03:26:17 +0000",
       "minecraft:husk": "2024-12-15 03:40:48 +0000",
@@ -3365,6 +3368,12 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/golden_sea_blade": {
+    "criteria": {
+      "blowgun": "2024-12-15 05:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-12-15 03:25:30 +0000"
@@ -3452,6 +3461,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-15 03:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-15 05:17:57 +0000"
     },
     "done": true
   },
@@ -3557,9 +3572,21 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2024-12-15 05:19:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-12-15 03:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-15 05:14:14 +0000"
     },
     "done": true
   },
@@ -3785,6 +3812,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-15 05:14:14 +0000"
+    },
+    "done": true
+  },
   "gobber2:root": {
     "criteria": {
       "gobber2_globette": "2024-12-15 04:16:28 +0000"
@@ -3848,6 +3881,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-15 03:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-15 05:17:57 +0000"
     },
     "done": true
   },
@@ -4007,6 +4046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-15 05:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 03:43:01 +0000"
@@ -4022,6 +4067,12 @@
   "croptopia:recipes/food/molasses_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-15 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-15 05:17:57 +0000"
     },
     "done": true
   },
@@ -4121,6 +4172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-15 05:17:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-15 03:25:33 +0000"
@@ -4160,6 +4217,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-15 03:46:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-15 05:17:57 +0000"
     },
     "done": true
   },
