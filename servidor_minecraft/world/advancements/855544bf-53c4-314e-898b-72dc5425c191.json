@@ -1604,6 +1604,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-14 03:44:22 +0000",
+      "minecraft:ghast": "2024-12-15 04:53:42 +0000",
       "minecraft:spider": "2024-12-14 20:44:41 +0000",
       "minecraft:piglin_brute": "2024-12-15 03:32:56 +0000",
       "minecraft:creeper": "2024-12-14 03:50:24 +0000",
