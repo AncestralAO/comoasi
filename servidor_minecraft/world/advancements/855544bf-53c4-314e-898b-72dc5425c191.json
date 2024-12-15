@@ -4794,6 +4794,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 21:36:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2024-12-15 21:01:15 +0000"

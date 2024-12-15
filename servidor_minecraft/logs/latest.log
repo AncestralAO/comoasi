@@ -2062,3 +2062,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 21:29:43.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was slain by Kazuruki
 [15Dec2024 21:30:01.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a is bleeding. Graniter82a was slain by Kazuruki
 [15Dec2024 21:30:03.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[15Dec2024 21:30:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki is bleeding. Kazuruki was slain by Graniter82a
+[15Dec2024 21:30:22.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Graniter82a
+[15Dec2024 21:30:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to 345.500000, -52.500000, -3639.500000]
+[15Dec2024 21:30:41.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by godrick soldier
+[15Dec2024 21:30:47.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by godrick soldier
+[15Dec2024 21:30:57.751] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[15Dec2024 21:30:57.781] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[15Dec2024 21:30:58.464] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=27, z=-1223}
+[15Dec2024 21:31:05.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by godrick soldier
+[15Dec2024 21:31:11.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by godrick soldier
+[15Dec2024 21:31:33.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Decaying Zombie
+[15Dec2024 21:31:39.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Decaying Zombie
+[15Dec2024 21:31:46.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[15Dec2024 21:31:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Double Trouble]
+[15Dec2024 21:31:58.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by tower knight
+[15Dec2024 21:31:59.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Triggered [spellbound_recipes]]
+[15Dec2024 21:32:05.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Triggered [spellbound_recipes]]
+[15Dec2024 21:32:07.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by tower knight
+[15Dec2024 21:32:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Triggered [spellbound_recipes] (set value to 2)]
+[15Dec2024 21:32:11.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Triggered [spellbound_recipes] (set value to 3)]
+[15Dec2024 21:32:12.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Triggered [spellbound_recipes] (set value to 4)]
+[15Dec2024 21:32:29.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was shot by Twisted souls
+[15Dec2024 21:32:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was shot by Twisted souls
+[15Dec2024 21:32:47.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[15Dec2024 21:32:49.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was shot by Twisted souls
+[15Dec2024 21:32:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was shot by Twisted souls
+[15Dec2024 21:33:07.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Applied effect Strength to Kazuruki]
+[15Dec2024 21:33:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[15Dec2024 21:33:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has completed the challenge [Radagon hunter]
+[15Dec2024 21:33:20.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[15Dec2024 21:33:36.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[15Dec2024 21:33:38.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[15Dec2024 21:33:42.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Removed effect Strength from Kazuruki]
+[15Dec2024 21:34:55.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Chik3nBl4ck]
+[15Dec2024 21:35:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Moderately Sized Chungus
+[15Dec2024 21:35:16.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Moderately Sized Chungus
+[15Dec2024 21:35:26.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:35:32.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:35:40.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was shot by Skeleton
+[15Dec2024 21:35:44.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Graniter82a> quieres ayuda?
+[15Dec2024 21:35:47.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was shot by Skeleton
+[15Dec2024 21:35:55.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 75.500000, 102.500000, -5307.500000]
+[15Dec2024 21:36:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[15Dec2024 21:36:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck hit the ground too hard whilst trying to escape Moderately Sized Chungus
+[15Dec2024 21:36:08.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck hit the ground too hard
+[15Dec2024 21:36:44.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Disconnected
+[15Dec2024 21:36:44.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[15Dec2024 21:36:51.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Graniter82a> qe
+[15Dec2024 21:36:52.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck withered away whilst fighting Decrepit Skeleton
+[15Dec2024 21:36:56.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Removed every effect from Graniter82a]
+[15Dec2024 21:37:00.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck withered away
+[15Dec2024 21:37:38.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Hollow soldier
+[15Dec2024 21:37:44.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Hollow soldier
+[15Dec2024 21:38:21.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck hit the ground too hard
+[15Dec2024 21:38:40.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck hit the ground too hard
+[15Dec2024 21:39:07.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[15Dec2024 21:39:07.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chik3nBl4ck moved wrongly!
+[15Dec2024 21:39:45.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Piece of Chaos]
+[15Dec2024 21:40:17.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was slain by Castle guard
+[15Dec2024 21:40:25.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Castle guard
