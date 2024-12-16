@@ -2,3 +2,24 @@
 [16Dec2024 00:18:27.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Chik3nBl4ck]
 [16Dec2024 00:20:43.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved wrongly!
 [16Dec2024 00:23:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Dec2024 00:26:13.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Dec2024 00:26:18.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 75.500000, 102.500000, -5307.500000]
+[16Dec2024 00:28:45.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 271.500000, 74.500000, -3577.500000]
+[16Dec2024 00:28:59.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 75.500000, 102.500000, -5307.500000]
+[16Dec2024 00:29:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Dec2024 00:31:38.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Dec2024 00:32:58.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was doomed to fall by Zombie Bruiser
+[16Dec2024 00:33:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was doomed to fall by Zombie Bruiser
+[16Dec2024 00:35:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was doomed to fall by Creeper
+[16Dec2024 00:35:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was doomed to fall by Creeper
+[16Dec2024 00:35:51.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/116742, l='ServerLevel[world]', x=-18.14, y=65.00, z=-5220.41] died, message: 'Villager was slain by Dark spirit'
+[16Dec2024 00:36:09.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/116731, l='ServerLevel[world]', x=55.11, y=62.00, z=-5226.50] died, message: 'Scribe was slain by Zombie'
+[16Dec2024 00:36:23.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Surge Protector]
+[16Dec2024 00:36:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Spectator Mode]
+[16Dec2024 00:36:52.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Dec2024 00:39:35.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Dec2024 00:40:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Dec2024 00:41:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[16Dec2024 00:41:54.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[16Dec2024 00:42:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 75.500000, 102.500000, -5307.500000]
+[16Dec2024 00:42:54.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 75.500000, 102.500000, -5307.500000]

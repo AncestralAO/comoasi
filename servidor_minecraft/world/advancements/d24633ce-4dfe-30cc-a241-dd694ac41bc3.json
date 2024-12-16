@@ -4386,9 +4386,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-16 00:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
     },
     "done": true
   },
@@ -4434,6 +4446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-15 22:44:27 +0000"
@@ -4443,6 +4461,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2024-12-16 00:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
     },
     "done": true
   },
@@ -4488,6 +4512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-16 00:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-15 22:25:45 +0000"
@@ -4509,6 +4539,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-15 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
     },
     "done": true
   },
@@ -4560,6 +4596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 23:00:34 +0000"
@@ -4593,6 +4635,18 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-15 22:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-16 00:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
     },
     "done": true
   },
@@ -4716,6 +4770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-15 23:04:03 +0000"
@@ -4731,6 +4791,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-16 00:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
     },
     "done": true
   },
@@ -4824,6 +4890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2024-12-15 22:35:49 +0000"
@@ -4836,6 +4908,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-16 00:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-15 22:25:45 +0000"
@@ -4845,6 +4929,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 23:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-16 00:23:18 +0000"
     },
     "done": true
   },
