@@ -3522,3 +3522,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
 [15Dec2024 23:49:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [I Found It Underground]
 [15Dec2024 23:52:15.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was killed by Creeper using magic
 [15Dec2024 23:52:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was killed by Creeper using magic
+[15Dec2024 23:55:22.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Ursala'/108700, l='ServerLevel[world]', x=3389.57, y=72.00, z=2252.17] died: Ursala was slain by Chik3nBl4ck
+[15Dec2024 23:55:29.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck burned to death
+[15Dec2024 23:55:35.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck burned to death
+[15Dec2024 23:56:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck is bleeding. Chik3nBl4ck was blown up by Creeper
+[15Dec2024 23:56:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was blown up by Creeper
