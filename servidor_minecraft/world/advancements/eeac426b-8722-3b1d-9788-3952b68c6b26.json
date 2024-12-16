@@ -5386,6 +5386,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-16 00:20:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/frostmourne": {
     "criteria": {
       "has_item": "2024-12-15 22:29:20 +0000"
@@ -5455,6 +5461,12 @@
   "soulsweapons:recipes/combat/moonlight_shortsword": {
     "criteria": {
       "has_lord_soul": "2024-12-15 22:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 00:20:07 +0000"
     },
     "done": true
   },
